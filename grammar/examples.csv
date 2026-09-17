@@ -1,0 +1,225 @@
+chapterKey,genre,sentence,translation,structure
+en_presentPerfect,en_daily_reasoning,We have already decided on the approach.,私たちはすでにその取り組み方に決めた。,S:We|V:have already decided|M:on the approach.
+en_presentPerfect,en_academic_research,Researchers have proposed a new hypothesis to explain this phenomenon.,研究者たちはこの現象を説明する新しい仮説を提示した。,S:Researchers|V:have proposed|O:a new hypothesis|M:to explain this phenomenon.
+en_presentPerfect,en_daily_reasoning,I have never seen such strong evidence before.,これほど強い証拠は今まで見たことがない。,S:I|V:have never seen|O:such strong evidence|M:before.
+en_presentPerfect,en_academic_research,Scientists have studied this phenomenon for decades.,科学者たちは何十年もこの現象を研究してきた。,S:Scientists|V:have studied|O:this phenomenon|M:for decades.
+en_presentPerfect,en_daily_reasoning,The team has already reached a reasonable conclusion.,チームはすでに妥当な結論に達した。,S:The team|V:has already reached|O:a reasonable conclusion.
+en_presentPerfect,en_academic_research,The dataset has revealed a clear anomaly.,このデータセットは明確な異常を明らかにした。,S:The dataset|V:has revealed|O:a clear anomaly.
+en_presentPerfect,en_daily_reasoning,We have finally figured out the underlying cause.,私たちはついに根底にある原因を見つけ出した。,S:We|V:have finally figured out|O:the underlying cause.
+en_presentPerfect,en_academic_research,The findings have substantiated the original hypothesis.,その知見は当初の仮説を実証した。,S:The findings|V:have substantiated|O:the original hypothesis.
+en_passiveVoice,en_daily_reasoning,The decision was influenced by several factors.,その決定はいくつかの要因に影響された。,S:The decision|V:was influenced|M:by several factors.
+en_passiveVoice,en_academic_research,The hypothesis was supported by empirical evidence.,その仮説は実証的な証拠によって裏付けられた。,S:The hypothesis|V:was supported|M:by empirical evidence.
+en_passiveVoice,en_daily_reasoning,This approach was influenced by an earlier method.,この取り組み方は以前の方法に影響を受けた。,S:This approach|V:was influenced|M:by an earlier method.
+en_passiveVoice,en_academic_research,The framework was developed to explain this correlation.,その枠組みはこの相関を説明するために開発された。,S:The framework|V:was developed|M:to explain this correlation.
+en_passiveVoice,en_daily_reasoning,The outcome was affected by an unexpected factor.,その結果は予期しない要因に影響された。,S:The outcome|V:was affected|M:by an unexpected factor.
+en_passiveVoice,en_academic_research,The hypothesis was corroborated by new evidence.,その仮説は新しい証拠によって裏付けられた。,S:The hypothesis|V:was corroborated|M:by new evidence.
+en_passiveVoice,en_daily_reasoning,The plan was postponed because of an unexpected problem.,その計画は予期しない問題のために延期された。,S:The plan|V:was postponed|M:because of an unexpected problem.
+en_passiveVoice,en_academic_research,The discrepancy was mitigated by refining the methodology.,その食い違いは方法論を洗練することで緩和された。,S:The discrepancy|V:was mitigated|M:by refining the methodology.
+en_relativeClause,en_daily_reasoning,This is the factor that most people overlook.,これはほとんどの人が見落とす要因だ。,S:This|V:is|C:the factor|M:that most people overlook.
+en_relativeClause,en_academic_research,This is the framework that most studies rely on.,これはほとんどの研究が頼っている枠組みだ。,S:This|V:is|C:the framework|M:that most studies rely on.
+en_relativeClause,en_daily_reasoning,This is the evidence that changed our decision.,これが私たちの決定を変えた証拠だ。,S:This|V:is|C:the evidence|M:that changed our decision.
+en_relativeClause,en_academic_research,This is the hypothesis that most researchers support.,これはほとんどの研究者が支持する仮説だ。,S:This|V:is|C:the hypothesis|M:that most researchers support.
+en_relativeClause,en_daily_reasoning,This is the assumption that we should question.,これが私たちが疑うべき仮定だ。,S:This|V:is|C:the assumption|M:that we should question.
+en_relativeClause,en_academic_research,This is the dataset that supports our conclusion.,これが私たちの結論を裏付けるデータセットだ。,S:This|V:is|C:the dataset|M:that supports our conclusion.
+en_relativeClause,en_daily_reasoning,This is the factor that changed the outcome.,これが結果を変えた要因だ。,S:This|V:is|C:the factor|M:that changed the outcome.
+en_relativeClause,en_academic_research,This is the mechanism that elucidates the phenomenon.,これがその現象を解明するメカニズムだ。,S:This|V:is|C:the mechanism|M:that elucidates the phenomenon.
+en_subjunctive,en_daily_reasoning,"If the evidence were more consistent, we would reach a clear conclusion.",もし証拠がもっと一貫していたら、私たちは明確な結論に達するだろう。,"M:If the evidence were more consistent,|S:we|V:would reach|O:a clear conclusion."
+en_subjunctive,en_academic_research,"If the correlation were causal, the implications would be substantial.",もしその相関が因果関係だったら、その示唆はかなりのものになるだろう。,"M:If the correlation were causal,|S:the implications|V:would be|C:substantial."
+en_subjunctive,en_daily_reasoning,"If the factor were significant, the decision would change.",もしその要因が重要なら、決定は変わるだろう。,"M:If the factor were significant,|S:the decision|V:would change."
+en_subjunctive,en_academic_research,"If the framework were flawed, the results would be inconsistent.",もし枠組みに欠陥があれば、結果は一貫しないだろう。,"M:If the framework were flawed,|S:the results|V:would be|C:inconsistent."
+en_subjunctive,en_daily_reasoning,"If the context were clearer, the decision would be easier.",もし文脈がもっと明確なら、決定はもっと簡単だろう。,"M:If the context were clearer,|S:the decision|V:would be|C:easier."
+en_subjunctive,en_academic_research,"If the sample size were larger, the results would be more reliable.",もしサンプルサイズがもっと大きければ、結果はもっと信頼できるだろう。,"M:If the sample size were larger,|S:the results|V:would be|C:more reliable."
+en_subjunctive,en_daily_reasoning,"If the methodology were more rigorous, the conclusion would be more convincing.",もし方法論がもっと厳密なら、結論はもっと説得力があるだろう。,"M:If the methodology were more rigorous,|S:the conclusion|V:would be|C:more convincing."
+en_subjunctive,en_academic_research,"If the mechanism were fully elucidated, the debate would end.",もしそのメカニズムが完全に解明されれば、議論は終わるだろう。,"M:If the mechanism were fully elucidated,|S:the debate|V:would end."
+en_participial,en_daily_reasoning,"Considering the evidence, we should reconsider our approach.",証拠を考慮すると、私たちは取り組み方を再考すべきだ。,"M:Considering the evidence,|S:we|V:should reconsider|O:our approach."
+en_participial,en_academic_research,"Having reviewed the framework, the researchers proposed a revised methodology.",その枠組みを検討した上で、研究者たちは改訂した方法論を提案した。,"M:Having reviewed the framework,|S:the researchers|V:proposed|O:a revised methodology."
+en_participial,en_daily_reasoning,"Having reviewed the evidence, we changed our approach.",証拠を検討した上で、私たちは取り組み方を変えた。,"M:Having reviewed the evidence,|S:we|V:changed|O:our approach."
+en_participial,en_academic_research,"Considering the correlation, the researchers revised their hypothesis.",相関を考慮して、研究者たちは仮説を改訂した。,"M:Considering the correlation,|S:the researchers|V:revised|O:their hypothesis."
+en_participial,en_daily_reasoning,"Considering the circumstances, we postponed the decision.",状況を考慮して、私たちは決定を延期した。,"M:Considering the circumstances,|S:we|V:postponed|O:the decision."
+en_participial,en_academic_research,"Having analyzed the dataset, the researchers identified an outlier.",データセットを分析した上で、研究者たちは外れ値を特定した。,"M:Having analyzed the dataset,|S:the researchers|V:identified|O:an outlier."
+en_participial,en_daily_reasoning,"Having identified the discrepancy, we revised our conclusion.",その食い違いを特定した上で、私たちは結論を修正した。,"M:Having identified the discrepancy,|S:we|V:revised|O:our conclusion."
+en_participial,en_academic_research,"Considering the preliminary results, the team adopted a more robust methodology.",予備的な結果を考慮して、チームはより頑健な方法論を採用した。,"M:Considering the preliminary results,|S:the team|V:adopted|O:a more robust methodology."
+en_concessive,en_daily_reasoning,"Although the evidence was limited, the conclusion remained consistent.",証拠は限られていたが、結論は一貫していた。,"M:Although the evidence was limited,|S:the conclusion|V:remained|C:consistent."
+en_concessive,en_academic_research,"Whereas the earlier study emphasized correlation, this framework focuses on causation.",以前の研究が相関を重視していたのに対し、この枠組みは因果関係に焦点を当てている。,"M:Whereas the earlier study emphasized correlation,|S:this framework|V:focuses|M:on causation."
+en_concessive,en_daily_reasoning,"Although the factor seemed minor, it changed the decision.",その要因はささいに見えたが、決定を変えた。,"M:Although the factor seemed minor,|S:it|V:changed|O:the decision."
+en_concessive,en_academic_research,"Although the hypothesis was plausible, the evidence remained weak.",仮説はもっともらしかったが、証拠は依然として弱かった。,"M:Although the hypothesis was plausible,|S:the evidence|V:remained|C:weak."
+en_concessive,en_daily_reasoning,"Although the outcome was uncertain, we proceeded anyway.",結果は不確かだったが、私たちはとにかく進めた。,"M:Although the outcome was uncertain,|S:we|V:proceeded|M:anyway."
+en_concessive,en_academic_research,"Although the sample size was small, the correlation remained significant.",サンプルサイズは小さかったが、相関は有意なままだった。,"M:Although the sample size was small,|S:the correlation|V:remained|C:significant."
+en_concessive,en_daily_reasoning,"Although the explanation is plausible, it lacks empirical support.",その説明はもっともらしいが、実証的な裏付けを欠いている。,"M:Although the explanation is plausible,|S:it|V:lacks|O:empirical support."
+en_concessive,en_academic_research,"Whereas earlier work emphasized a single factor, this study considers several inherent ones.",以前の研究が単一の要因を重視していたのに対し、この研究はいくつかの本質的な要因を考慮している。,"M:Whereas earlier work emphasized a single factor,|S:this study|V:considers|O:several inherent ones."
+en_hedging,en_daily_reasoning,There seems to be a significant factor behind this decision.,この決定の背景には重要な要因があるようだ。,V:There seems to be|C:a significant factor|M:behind this decision.
+en_hedging,en_academic_research,"The data tend to support the underlying hypothesis, although the correlation remains preliminary.",データはこの根底にある仮説を支持する傾向にあるが、その相関はまだ予備的なものにとどまる。,S:The data|V:tend to support|O:the underlying hypothesis|M:although the correlation remains preliminary.
+en_hedging,en_daily_reasoning,The decision appears to depend on several factors.,その決定はいくつかの要因に左右されるようだ。,S:The decision|V:appears to depend|M:on several factors.
+en_hedging,en_academic_research,The findings may indicate a deeper underlying pattern.,その知見はより深い根底にあるパターンを示しているかもしれない。,S:The findings|V:may indicate|O:a deeper underlying pattern.
+en_hedging,en_daily_reasoning,The assumption appears to be reasonable.,その仮定は妥当なようだ。,S:The assumption|V:appears to be|C:reasonable.
+en_hedging,en_academic_research,The anomaly may indicate a measurement error.,その異常は測定誤差を示しているかもしれない。,S:The anomaly|V:may indicate|O:a measurement error.
+en_hedging,en_daily_reasoning,The discrepancy is presumably due to a measurement error.,その食い違いはおそらく測定誤差によるものだ。,S:The discrepancy|V:is presumably|C:due to a measurement error.
+en_hedging,en_academic_research,The correlation appears to be robust across several independent datasets.,その相関はいくつかの独立したデータセットにわたって頑健であるように見える。,S:The correlation|V:appears to be|C:robust|M:across several independent datasets.
+en_fillers,en_daily_reasoning,"Actually, I think the approach needs to change.",実は、その取り組み方は変える必要があると思う。,"M:Actually,|S:I|V:think|O:the approach needs to change."
+en_fillers,en_academic_research,"By the way, this framework also has an important implication for practice.",ちなみに、この枠組みは実践にとっても重要な示唆を持つ。,"M:By the way,|S:this framework|V:has|O:an important implication|M:for practice."
+en_fillers,en_daily_reasoning,"I mean, the approach itself wasn't the problem.",というか、取り組み方自体は問題ではなかった。,"M:I mean,|S:the approach itself|V:wasn't|C:the problem."
+en_fillers,en_academic_research,"Basically, this hypothesis needs more evidence.",基本的に、この仮説にはもっと証拠が必要だ。,"M:Basically,|S:this hypothesis|V:needs|O:more evidence."
+en_fillers,en_daily_reasoning,"Anyway, the outcome was reasonable.",とにかく、結果は妥当だった。,"M:Anyway,|S:the outcome|V:was|C:reasonable."
+en_fillers,en_academic_research,"Honestly, this dataset needs further analysis.",正直なところ、このデータセットにはさらなる分析が必要だ。,"M:Honestly,|S:this dataset|V:needs|O:further analysis."
+en_fillers,en_daily_reasoning,"Well, the explanation still seems a bit ambiguous.",そうだな、その説明はまだ少し曖昧に思える。,"M:Well,|S:the explanation|V:still seems|C:a bit ambiguous."
+en_fillers,en_academic_research,"In short, the findings are fairly preliminary.",要するに、その知見はかなり予備的なものだ。,"M:In short,|S:the findings|V:are|C:fairly preliminary."
+en_phrasalVerbs,en_daily_reasoning,We need to figure out the most relevant factor.,私たちは最も関連性の高い要因を見つけ出す必要がある。,S:We|V:need to figure out|O:the most relevant factor.
+en_phrasalVerbs,en_academic_research,The study points out a discrepancy in the earlier findings.,その研究は以前の知見の食い違いを指摘している。,S:The study|V:points out|O:a discrepancy|M:in the earlier findings.
+en_phrasalVerbs,en_daily_reasoning,We should look into this factor more carefully.,私たちはこの要因をもっと注意深く調べるべきだ。,S:We|V:should look into|O:this factor|M:more carefully.
+en_phrasalVerbs,en_academic_research,The researchers came up with a new framework.,研究者たちは新しい枠組みを考え出した。,S:The researchers|V:came up with|O:a new framework.
+en_phrasalVerbs,en_daily_reasoning,We need to point out this inconsistency.,私たちはこの矛盾を指摘する必要がある。,S:We|V:need to point out|O:this inconsistency.
+en_phrasalVerbs,en_academic_research,The researchers ruled out an alternative explanation.,研究者たちは代替の説明を除外した。,S:The researchers|V:ruled out|O:an alternative explanation.
+en_phrasalVerbs,en_daily_reasoning,We should look into why the discrepancy came about.,私たちはその食い違いがなぜ生じたのか調べるべきだ。,S:We|V:should look into|O:why the discrepancy came about.
+en_phrasalVerbs,en_academic_research,The researchers set out to elucidate the underlying mechanism.,研究者たちはその根底にあるメカニズムを解明しようとした。,S:The researchers|V:set out to elucidate|O:the underlying mechanism.
+en_presentPerfect,en_toeic_business,We have already submitted the invoice.,私たちはすでに請求書を提出した。,S:We|V:have already submitted|O:the invoice.
+en_presentPerfect,en_semiconductor,Researchers have measured the band gap of this material.,研究者たちはこの材料のバンドギャップを測定した。,S:Researchers|V:have measured|O:the band gap of this material.
+en_presentPerfect,en_toeic_business,The company has negotiated a new contract with the supplier.,会社は仕入先と新しい契約を交渉した。,S:The company|V:has negotiated|O:a new contract|M:with the supplier.
+en_presentPerfect,en_semiconductor,The team has doped the silicon wafer with boron.,チームはシリコンウエハーにホウ素をドープした。,S:The team|V:has doped|O:the silicon wafer|M:with boron.
+en_presentPerfect,en_toeic_business,The manager has approved the budget increase.,マネージャーは予算増加を承認した。,S:The manager|V:has approved|O:the budget increase.
+en_presentPerfect,en_semiconductor,The team has observed significant band bending at the interface.,チームは界面で顕著なバンド湾曲を観察した。,S:The team|V:has observed|O:significant band bending|M:at the interface.
+en_presentPerfect,en_toeic_business,The client has requested a revised quotation.,顧客は改訂した見積書を要求した。,S:The client|V:has requested|O:a revised quotation.
+en_presentPerfect,en_semiconductor,The researchers have corroborated the earlier result with new data.,研究者たちは新しいデータで以前の結果を裏付けた。,S:The researchers|V:have corroborated|O:the earlier result|M:with new data.
+en_passiveVoice,en_toeic_business,The contract was signed by both parties.,契約書は両者によって署名された。,S:The contract|V:was signed|M:by both parties.
+en_passiveVoice,en_semiconductor,The wafer was doped with phosphorus.,ウエハーはリンでドープされた。,S:The wafer|V:was doped|M:with phosphorus.
+en_passiveVoice,en_toeic_business,The budget was approved by the shareholders.,予算は株主によって承認された。,S:The budget|V:was approved|M:by the shareholders.
+en_passiveVoice,en_semiconductor,The band gap was measured at room temperature.,バンドギャップは室温で測定された。,S:The band gap|V:was measured|M:at room temperature.
+en_passiveVoice,en_toeic_business,The contract was reviewed by the legal team.,契約書は法務チームによって見直された。,S:The contract|V:was reviewed|M:by the legal team.
+en_passiveVoice,en_semiconductor,The threshold voltage was reduced by the new fabrication process.,しきい値電圧は新しい製造プロセスによって低下した。,S:The threshold voltage|V:was reduced|M:by the new fabrication process.
+en_passiveVoice,en_toeic_business,The quotation was revised by the sales team.,見積書は営業チームによって改訂された。,S:The quotation|V:was revised|M:by the sales team.
+en_passiveVoice,en_semiconductor,The mobility was affected by the increased defect density.,移動度は欠陥密度の増加によって影響を受けた。,S:The mobility|V:was affected|M:by the increased defect density.
+en_relativeClause,en_toeic_business,This is the supplier that offers the best price.,これが最も良い価格を提供する仕入先だ。,S:This|V:is|C:the supplier|M:that offers the best price.
+en_relativeClause,en_semiconductor,This is the transistor that shows the highest mobility.,これが最も高い移動度を示すトランジスタだ。,S:This|V:is|C:the transistor|M:that shows the highest mobility.
+en_relativeClause,en_toeic_business,This is the contract that we negotiated last month.,これが私たちが先月交渉した契約だ。,S:This|V:is|C:the contract|M:that we negotiated last month.
+en_relativeClause,en_semiconductor,This is the junction that forms the diode.,これがダイオードを形成する接合だ。,S:This|V:is|C:the junction|M:that forms the diode.
+en_relativeClause,en_toeic_business,This is the vendor that delivers on time.,これが時間通りに納品する業者だ。,S:This|V:is|C:the vendor|M:that delivers on time.
+en_relativeClause,en_semiconductor,This is the junction that shows avalanche breakdown.,これがなだれ降伏を示す接合だ。,S:This|V:is|C:the junction|M:that shows avalanche breakdown.
+en_relativeClause,en_toeic_business,This is the client who signed the new contract.,これが新しい契約に署名した顧客だ。,S:This|V:is|C:the client|M:who signed the new contract.
+en_relativeClause,en_semiconductor,This is the substrate that shows the lowest defect density.,これが最も低い欠陥密度を示す基板だ。,S:This|V:is|C:the substrate|M:that shows the lowest defect density.
+en_subjunctive,en_toeic_business,"If the budget were larger, we would launch the campaign sooner.",もし予算がもっと大きければ、私たちはもっと早くキャンペーンを開始するだろう。,"M:If the budget were larger,|S:we|V:would launch|O:the campaign|M:sooner."
+en_subjunctive,en_semiconductor,"If the band gap were narrower, the device would conduct more easily.",もしバンドギャップがもっと狭ければ、デバイスはもっと簡単に伝導するだろう。,"M:If the band gap were narrower,|S:the device|V:would conduct|M:more easily."
+en_subjunctive,en_toeic_business,"If the supplier were more reliable, the delay would not happen.",もし仕入先がもっと信頼できれば、遅延は起きないだろう。,"M:If the supplier were more reliable,|S:the delay|V:would not happen."
+en_subjunctive,en_semiconductor,"If the doping concentration were higher, the resistivity would decrease.",もしドーピング濃度がもっと高ければ、抵抗率は低下するだろう。,"M:If the doping concentration were higher,|S:the resistivity|V:would decrease."
+en_subjunctive,en_toeic_business,"If the supplier delivered faster, the project would finish sooner.",もし仕入先がもっと早く届ければ、プロジェクトはもっと早く終わるだろう。,"M:If the supplier delivered faster,|S:the project|V:would finish|M:sooner."
+en_subjunctive,en_semiconductor,"If the doping concentration were lower, the resistivity would increase.",もしドーピング濃度がもっと低ければ、抵抗率は増加するだろう。,"M:If the doping concentration were lower,|S:the resistivity|V:would increase."
+en_subjunctive,en_toeic_business,"If the client approved the quotation today, we would start next week.",もし顧客が今日見積書を承認すれば、私たちは来週開始するだろう。,"M:If the client approved the quotation today,|S:we|V:would start|M:next week."
+en_subjunctive,en_semiconductor,"If the substrate were defect-free, the mobility would be much higher.",もし基板に欠陥がなければ、移動度ははるかに高くなるだろう。,"M:If the substrate were defect-free,|S:the mobility|V:would be|C:much higher."
+en_participial,en_toeic_business,"Considering the budget, we postponed the campaign.",予算を考慮して、私たちはキャンペーンを延期した。,"M:Considering the budget,|S:we|V:postponed|O:the campaign."
+en_participial,en_semiconductor,"Considering the leakage current, the engineers redesigned the gate.",リーク電流を考慮して、エンジニアたちはゲートを再設計した。,"M:Considering the leakage current,|S:the engineers|V:redesigned|O:the gate."
+en_participial,en_toeic_business,"Having reviewed the contract, the lawyer approved it.",契約書を検討した上で、弁護士はそれを承認した。,"M:Having reviewed the contract,|S:the lawyer|V:approved|O:it."
+en_participial,en_semiconductor,"Having measured the mobility, the researchers selected a new substrate.",移動度を測定した上で、研究者たちは新しい基板を選んだ。,"M:Having measured the mobility,|S:the researchers|V:selected|O:a new substrate."
+en_participial,en_toeic_business,"Having reviewed the proposal, the manager approved the budget.",提案を検討した上で、マネージャーは予算を承認した。,"M:Having reviewed the proposal,|S:the manager|V:approved|O:the budget."
+en_participial,en_semiconductor,"Considering the leakage current, the team redesigned the oxide layer.",リーク電流を考慮して、チームは酸化膜を再設計した。,"M:Considering the leakage current,|S:the team|V:redesigned|O:the oxide layer."
+en_participial,en_toeic_business,"Having received the client's feedback, we revised the quotation.",顧客のフィードバックを受け取った上で、私たちは見積書を修正した。,"M:Having received the client's feedback,|S:we|V:revised|O:the quotation."
+en_participial,en_semiconductor,"Having measured the defect density, the engineers adjusted the fabrication process.",欠陥密度を測定した上で、エンジニアたちは製造プロセスを調整した。,"M:Having measured the defect density,|S:the engineers|V:adjusted|O:the fabrication process."
+en_concessive,en_toeic_business,"Although the budget was limited, the campaign succeeded.",予算は限られていたが、キャンペーンは成功した。,"M:Although the budget was limited,|S:the campaign|V:succeeded."
+en_concessive,en_semiconductor,"Although the band gap was narrow, the device performed well.",バンドギャップは狭かったが、デバイスは良好に機能した。,"M:Although the band gap was narrow,|S:the device|V:performed|M:well."
+en_concessive,en_toeic_business,"Whereas the old supplier was slow, the new one delivers quickly.",以前の仕入先が遅かったのに対し、新しい仕入先は速く配達する。,"M:Whereas the old supplier was slow,|S:the new one|V:delivers|M:quickly."
+en_concessive,en_semiconductor,"Whereas silicon has an indirect bandgap, gallium arsenide has a direct one.",シリコンが間接遷移型のバンドギャップを持つのに対し、ヒ化ガリウムは直接遷移型だ。,"M:Whereas silicon has an indirect bandgap,|S:gallium arsenide|V:has|O:a direct one."
+en_concessive,en_toeic_business,"Whereas the previous vendor was unreliable, this one performs consistently.",以前の業者は信頼できなかったのに対し、この業者は一貫して機能する。,"M:Whereas the previous vendor was unreliable,|S:this one|V:performs|M:consistently."
+en_concessive,en_semiconductor,"Whereas silicon dominates the market, gallium arsenide offers higher electron mobility.",シリコンが市場を支配しているのに対し、ヒ化ガリウムはより高い電子移動度を提供する。,"M:Whereas silicon dominates the market,|S:gallium arsenide|V:offers|O:higher electron mobility."
+en_concessive,en_toeic_business,"Although the client raised concerns, the contract was signed on schedule.",顧客は懸念を示したが、契約は予定通り署名された。,"M:Although the client raised concerns,|S:the contract|V:was signed|M:on schedule."
+en_concessive,en_semiconductor,"Whereas the old process was prevalent, the new fabrication method is more robust.",以前のプロセスが一般的だったのに対し、新しい製造方法はより頑健だ。,"M:Whereas the old process was prevalent,|S:the new fabrication method|V:is|C:more robust."
+en_hedging,en_toeic_business,The budget appears to be insufficient for this campaign.,その予算はこのキャンペーンには不十分なようだ。,S:The budget|V:appears to be|C:insufficient|M:for this campaign.
+en_hedging,en_semiconductor,The defect density seems to affect the yield.,欠陥密度は歩留まりに影響しているようだ。,S:The defect density|V:seems to affect|O:the yield.
+en_hedging,en_toeic_business,The merger may lead to significant cost savings.,その合併は大幅なコスト削減につながるかもしれない。,S:The merger|V:may lead to|O:significant cost savings.
+en_hedging,en_semiconductor,The scattering may explain the reduced mobility.,その散乱は移動度低下の説明になるかもしれない。,S:The scattering|V:may explain|O:the reduced mobility.
+en_hedging,en_toeic_business,The delay seems to stem from a supplier issue.,その遅延は仕入先の問題に起因するようだ。,S:The delay|V:seems to stem from|O:a supplier issue.
+en_hedging,en_semiconductor,The degradation appears to result from thermal stress.,その劣化は熱応力に起因するようだ。,S:The degradation|V:appears to result from|O:thermal stress.
+en_hedging,en_toeic_business,The client's hesitation seems to reflect budget concerns.,顧客のためらいは予算への懸念を反映しているようだ。,S:The client's hesitation|V:seems to reflect|O:budget concerns.
+en_hedging,en_semiconductor,The reduced mobility may be attributable to increased scattering.,移動度の低下は散乱の増加に起因するのかもしれない。,S:The reduced mobility|V:may be|C:attributable to increased scattering.
+en_fillers,en_toeic_business,"Actually, the budget was approved yesterday.",実は、予算は昨日承認された。,"M:Actually,|S:the budget|V:was approved|M:yesterday."
+en_fillers,en_semiconductor,"Actually, the wafer showed an unexpected defect.",実は、そのウエハーには予期しない欠陥が見られた。,"M:Actually,|S:the wafer|V:showed|O:an unexpected defect."
+en_fillers,en_toeic_business,"By the way, the merger will be announced next week.",ちなみに、その合併は来週発表される。,"M:By the way,|S:the merger|V:will be announced|M:next week."
+en_fillers,en_semiconductor,"Basically, doping increases the carrier concentration.",基本的に、ドーピングはキャリア濃度を増加させる。,"M:Basically,|S:doping|V:increases|O:the carrier concentration."
+en_fillers,en_toeic_business,"To be honest, the budget was too tight.",正直に言うと、予算はきつすぎた。,"M:To be honest,|S:the budget|V:was|C:too tight."
+en_fillers,en_semiconductor,"Actually, the yield improved significantly.",実は、歩留まりは大幅に改善した。,"M:Actually,|S:the yield|V:improved|M:significantly."
+en_fillers,en_toeic_business,"Honestly, the client seemed satisfied with the proposal.",正直なところ、顧客は提案に満足しているようだった。,"M:Honestly,|S:the client|V:seemed|C:satisfied with the proposal."
+en_fillers,en_semiconductor,"So far, the new process looks more robust than the old one.",今のところ、新しいプロセスは以前のものより頑健に見える。,"M:So far,|S:the new process|V:looks|C:more robust than the old one."
+en_phrasalVerbs,en_toeic_business,We need to figure out a better supplier.,私たちはもっと良い仕入先を見つけ出す必要がある。,S:We|V:need to figure out|O:a better supplier.
+en_phrasalVerbs,en_semiconductor,We need to look into this leakage current.,私たちはこのリーク電流を調べる必要がある。,S:We|V:need to look into|O:this leakage current.
+en_phrasalVerbs,en_toeic_business,The team came up with a new marketing campaign.,チームは新しいマーケティングキャンペーンを考え出した。,S:The team|V:came up with|O:a new marketing campaign.
+en_phrasalVerbs,en_semiconductor,The researchers came up with a new fabrication process.,研究者たちは新しい製造プロセスを考え出した。,S:The researchers|V:came up with|O:a new fabrication process.
+en_phrasalVerbs,en_toeic_business,We need to follow up on this inquiry.,私たちはこの問い合わせについてフォローアップする必要がある。,S:We|V:need to follow up|M:on this inquiry.
+en_phrasalVerbs,en_semiconductor,The team carried out a series of experiments.,チームは一連の実験を実施した。,S:The team|V:carried out|O:a series of experiments.
+en_phrasalVerbs,en_toeic_business,The client asked us to follow up on the revised quotation.,顧客は改訂した見積書についてフォローアップするよう私たちに依頼した。,S:The client|V:asked|O:us|M:to follow up on the revised quotation.
+en_phrasalVerbs,en_semiconductor,The engineers had to figure out why the mobility dropped off.,エンジニアたちは移動度がなぜ低下したのか見つけ出す必要があった。,S:The engineers|V:had to figure out|O:why the mobility dropped off.
+zh_leGuo,zh_daily_life,我去过很多地方找机会。,私は機会を探すために多くの場所に行ったことがある。,
+zh_leGuo,zh_daily_life,我已经联系了他。,私はすでに彼に連絡した。,
+zh_leGuo,zh_academic,科学家已经发现了新的方法。,科学者はすでに新しい方法を発見した。,
+zh_leGuo,zh_academic,他已经了解了这个方法。,彼はすでにこの方法を理解した。,
+zh_leGuo,zh_society,他们已经参加了那个活动。,彼らはすでにそのイベントに参加した。,
+zh_leGuo,zh_society,历史已经改变了这个社会。,歴史はすでにこの社会を変えた。,
+zh_leGuo,zh_business_planning,我们已经完成了这个计划。,私たちはすでにこの計画を完成させた。,
+zh_leGuo,zh_business_planning,他们已经提供了建议。,彼らはすでにアドバイスを提供した。,
+zh_leGuo,zh_daily_life,他已经努力了很长时间。,彼は長い間努力してきた。,
+zh_leGuo,zh_academic,我们已经分析了这些数据。,私たちはこれらのデータを分析した。,
+zh_leGuo,zh_society,这个国家已经建立了新制度。,この国はすでに新しい制度を確立した。,
+zh_leGuo,zh_business_planning,公司已经降低了成本。,会社はすでにコストを下げた。,
+zh_leGuo,zh_daily_life,他终于适应了新的习惯。,彼はついに新しい習慣に適応した。,
+zh_leGuo,zh_academic,研究人员已经证明了这个现象。,研究者たちはすでにこの現象を証明した。,
+zh_leGuo,zh_society,政府已经保护了这个传统文化。,政府はすでにこの伝統文化を保護した。,
+zh_leGuo,zh_business_planning,公司已经提高了产品标准。,会社はすでに製品の基準を引き上げた。,
+zh_baConstruction,zh_daily_life,请把这个机会给他。,このチャンスを彼に与えてください。,
+zh_baConstruction,zh_daily_life,她把态度改变了。,彼女は態度を変えた。,
+zh_baConstruction,zh_academic,我们把这个方法用在了研究中。,私たちはこの方法を研究に用いた。,
+zh_baConstruction,zh_academic,他把自己的经验用在了教育中。,彼は自分の経験を教育に用いた。,
+zh_baConstruction,zh_society,政府把环境保护放在第一位。,政府は環境保護を第一に置いている。,
+zh_baConstruction,zh_society,他们把这个文化传给了下一代。,彼らはこの文化を次の世代に伝えた。,
+zh_baConstruction,zh_business_planning,我们把目标提高了。,私たちは目標を高めた。,
+zh_baConstruction,zh_business_planning,他们把经济发展放在了首位。,彼らは経済発展を最優先にした。,
+zh_baConstruction,zh_daily_life,请把你的感觉告诉我。,あなたの感じたことを私に教えてください。,
+zh_baConstruction,zh_academic,我们把这个理论用在了实验中。,私たちはこの理論を実験に用いた。,
+zh_baConstruction,zh_society,政府把责任交给了地方。,政府は責任を地方に委ねた。,
+zh_baConstruction,zh_business_planning,公司把市场扩大了。,会社は市場を拡大した。,
+zh_baConstruction,zh_daily_life,他把这个情况解释清楚了。,彼はこの状況をはっきりと説明した。,
+zh_baConstruction,zh_academic,我们把这个条件写进了报告。,私たちはこの条件を報告書に書き入れた。,
+zh_baConstruction,zh_society,政府把这个资源分给了每个地区。,政府はこの資源を各地域に分配した。,
+zh_baConstruction,zh_business_planning,公司把风险降到了最低。,会社はリスクを最低限まで下げた。,
+zh_comparison,zh_daily_life,这次的机会比上次更好。,今回の機会は前回よりも良い。,
+zh_comparison,zh_daily_life,他的态度比以前更认真了。,彼の態度は以前よりも真面目になった。,
+zh_comparison,zh_academic,新的研究方法比旧的更科学。,新しい研究方法は古いものより科学的だ。,
+zh_comparison,zh_academic,这个学校的教育比那个学校更好。,この学校の教育はあの学校よりも良い。,
+zh_comparison,zh_society,这个国家的历史比我们想象的更长。,この国の歴史は私たちが想像するより長い。,
+zh_comparison,zh_society,这个城市的环境比过去更好了。,この街の環境は昔よりも良くなった。,
+zh_comparison,zh_business_planning,今年的计划比去年更详细。,今年の計画は去年よりも詳細だ。,
+zh_comparison,zh_business_planning,今年的目标比去年更高。,今年の目標は去年より高い。,
+zh_comparison,zh_daily_life,他现在比以前更熟悉这份工作了。,彼は以前よりもこの仕事に詳しくなった。,
+zh_comparison,zh_academic,这个理论比旧的理论更清楚。,この理論は古い理論よりも明確だ。,
+zh_comparison,zh_society,这个国家的人口比邻国更多。,この国の人口は隣国より多い。,
+zh_comparison,zh_business_planning,这个产品的成本比以前更低。,この製品のコストは以前より低い。,
+zh_comparison,zh_daily_life,这次的情况比上次更复杂。,今回の状況は前回よりも複雑だ。,
+zh_comparison,zh_academic,这个结构比旧的结构更清楚。,この構造は古い構造よりも明確だ。,
+zh_comparison,zh_society,这个地区的资源比邻近地区更丰富。,この地域の資源は隣接する地域よりも豊富だ。,
+zh_comparison,zh_business_planning,今年的收入比去年更高。,今年の収入は去年より高い。,
+zh_existential,zh_daily_life,这里有一个很好的机会。,ここに良い機会がある。,
+zh_existential,zh_daily_life,他对工作有认真的态度。,彼は仕事に対して真面目な態度を持っている。,
+zh_existential,zh_academic,这个领域还有很多值得研究的问题。,この分野にはまだ研究する価値のある問題がたくさんある。,
+zh_existential,zh_academic,这本书里有很多关于科学的经验。,この本には科学に関する経験がたくさん書かれている。,
+zh_existential,zh_society,这个城市有丰富的文化。,この街には豊かな文化がある。,
+zh_existential,zh_society,这个社会有很多历史问题。,この社会には多くの歴史的な問題がある。,
+zh_existential,zh_business_planning,这个计划有一个明确的目标。,この計画には明確な目標がある。,
+zh_existential,zh_business_planning,这个计划有很大的效果。,この計画には大きな効果がある。,
+zh_existential,zh_daily_life,这里有很多值得学习的习惯。,ここには学ぶ価値のある習慣がたくさんある。,
+zh_existential,zh_academic,这个研究还有很多未知的问题。,この研究にはまだ多くの未知の問題がある。,
+zh_existential,zh_society,这个社会还有很多不平等。,この社会にはまだ多くの不平等がある。,
+zh_existential,zh_business_planning,这个市场还有很大的竞争。,この市場にはまだ大きな競争がある。,
+zh_existential,zh_daily_life,他对新环境有很好的适应能力。,彼は新しい環境に対して良い適応力を持っている。,
+zh_existential,zh_academic,这个系统有很多值得改进的功能。,このシステムには改善する価値のある機能がたくさんある。,
+zh_existential,zh_society,这个社会还有很大的发展空间。,この社会にはまだ大きな発展の余地がある。,
+zh_existential,zh_business_planning,这个项目有很大的投资价值。,このプロジェクトには大きな投資価値がある。,
+zh_colloquial,zh_daily_life,这个机会差不多是最后一次了。,このチャンスはほとんど最後のようなものだ。,
+zh_colloquial,zh_daily_life,他的态度其实很好。,彼の態度は実は良い。,
+zh_colloquial,zh_academic,这个方法其实没有你想的那么复杂。,この方法は実はあなたが思うほど複雑ではない。,
+zh_colloquial,zh_academic,这个研究好像还没有结果。,この研究はまだ結果が出ていないようだ。,
+zh_colloquial,zh_society,"没关系,这些问题社会上很常见。",大丈夫、こうした問題は社会ではよくあることだ。,
+zh_colloquial,zh_society,这个文化差不多要消失了。,この文化はほとんど消えかけている。,
+zh_colloquial,zh_business_planning,这个计划好像还需要调整。,この計画はどうやらまだ調整が必要なようだ。,
+zh_colloquial,zh_business_planning,这个目标其实不难实现。,この目標は実は実現するのは難しくない。,
+zh_colloquial,zh_daily_life,"他其实很努力,只是不常说。",彼は実は努力しているが、あまり口に出さないだけだ。,
+zh_colloquial,zh_academic,这个数据好像不太准确。,このデータはあまり正確ではないようだ。,
+zh_colloquial,zh_society,这个制度其实没有那么复杂。,この制度は実はそれほど複雑ではない。,
+zh_colloquial,zh_business_planning,这个成本好像有点高。,このコストは少し高いようだ。,
+zh_colloquial,zh_daily_life,他的情况其实没有那么糟糕。,彼の状況は実はそれほどひどくない。,
+zh_colloquial,zh_academic,这个结论好像还需要更多证据。,この結論はまだもっと証拠が必要なようだ。,
+zh_colloquial,zh_society,这个规则好像大家都不太遵守。,この規則はどうやらみんなあまり守っていないようだ。,
+zh_colloquial,zh_business_planning,这个风险好像被低估了。,このリスクはどうやら過小評価されていたようだ。,

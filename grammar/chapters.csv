@@ -1,0 +1,15 @@
+language,chapterKey,title,summary,sortOrder,chapterType,level
+en,en_presentPerfect,現在完了形,過去の経験・継続・完了を「have/has + 過去分詞」で表す。,0,grammar,1
+en,en_passiveVoice,受動態,動作を受ける側を主語にする「be + 過去分詞」の形。,1,grammar,1
+en,en_relativeClause,関係代名詞,who/which/thatなどで名詞を後ろから修飾する節。TOEIC Part5でも頻出。,2,grammar,2
+en,en_subjunctive,仮定法,"現実とは異なることを仮定して述べる形(If + 過去形 ~, would + 動詞の原形)。",3,grammar,2
+en,en_participial,分詞構文,ing形/過去分詞から始まる句で、理由・時・付帯状況をコンパクトに表す。,4,grammar,2
+en,en_concessive,譲歩・対比の従属節,although/whereas/whileなどで、対立する内容を1文にまとめる。,5,grammar,3
+en,en_hedging,名詞構文とヘッジ表現,動詞を名詞化した言い回しや、may/tend toなどで断定を避ける、論文特有の書き方。,6,grammar,3
+en,en_fillers,口語のつなぎ表現,会話でよく使うが、文法規則ではなく決まり文句として覚えるしかない言い回し。,7,idiom,1
+en,en_phrasalVerbs,句動詞(動詞+前置詞),動詞+前置詞/副詞のセットで意味が決まる、辞書的に覚えるしかない表現。,8,idiom,1
+zh,zh_leGuo,了・过(アスペクト助詞),「了」は完了、「过」は経験(〜したことがある)を表す。,0,grammar,1
+zh,zh_baConstruction,把構文,「把+目的語+動詞+その他成分」で、対象をどう処理したかを表す。,1,grammar,1
+zh,zh_comparison,比較構文(比),「A比B+形容詞」でAがBより〜であることを表す。,2,grammar,1
+zh,zh_existential,存在文(有),「場所+有+名詞」または「名詞+有+名詞」で存在を表す。,3,grammar,1
+zh,zh_colloquial,口語でよく使う言い方,文法の型ではなく、会話でよく出る決まり文句(差不多・其实・没关系・好像など)。,4,idiom,1

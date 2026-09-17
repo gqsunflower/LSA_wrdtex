@@ -1,0 +1,103 @@
+language,term,traditionalTerm,pinyin,meaning,exampleSentence,exampleTranslation,exampleKeyTerms,category,genre
+en,decide,,,決定する,I decided to study every day.,私は毎日勉強することに決めた,decided|to,starter,en_daily_reasoning
+en,determine,,,決定づける・突き止める,The results determine our next step.,結果が私たちの次の一歩を決定づける,determine|next step,starter,en_daily_reasoning
+en,significant,,,重要な・有意な,This is a significant difference.,これは重要な違いだ,significant|difference,starter,en_daily_reasoning
+en,approach,,,取り組み方・接近する,We need a new approach to this problem.,私たちはこの問題への新しい取り組み方が必要だ,approach|to,starter,en_daily_reasoning
+en,evidence,,,証拠,There is no evidence to support this.,これを裏付ける証拠はない,evidence|support,starter,en_daily_reasoning
+en,factor,,,要因,Many factors affect the outcome.,多くの要因が結果に影響する,factors|affect,starter,en_daily_reasoning
+en,contrast,,,対比する,This contrasts with the previous result.,これは以前の結果と対照的だ,contrasts|with,starter,en_daily_reasoning
+en,assume,,,仮定する,Let's assume the value is constant.,その値が一定であると仮定しよう,assume|constant,starter,en_daily_reasoning
+en,consistent,,,一貫した,Her answers were not consistent.,彼女の答えは一貫していなかった,consistent|not,starter,en_daily_reasoning
+en,define,,,定義する,Please define the term clearly.,その用語を明確に定義してください,define|clearly,starter,en_daily_reasoning
+en,previous,,,以前の,In the previous chapter we discussed this.,前の章でこれについて話した,previous|discussed,starter,en_daily_reasoning
+en,relevant,,,関連性のある,This data is relevant to our research.,このデータは私たちの研究に関連している,relevant|to,starter,en_daily_reasoning
+en,perspective,,,視点,Consider it from another perspective.,別の視点からそれを考えてみて,perspective|another,starter,en_daily_reasoning
+en,sufficient,,,十分な,We have sufficient time to finish.,私たちには終えるための十分な時間がある,sufficient|to finish,starter,en_daily_reasoning
+en,evaluate,,,評価する,We need to evaluate the results carefully.,私たちは結果を注意深く評価する必要がある,evaluate|carefully,starter,en_daily_reasoning
+en,hypothesis,,,仮説,We need to test this hypothesis carefully.,私たちはこの仮説を注意深く検証する必要がある,hypothesis|test,academic,en_academic_research
+en,methodology,,,方法論,The methodology of this study is well documented.,この研究の方法論はよく記録されている,methodology|documented,academic,en_academic_research
+en,phenomenon,,,現象,This phenomenon has not been fully explained.,この現象はまだ完全には説明されていない,phenomenon|explained,academic,en_academic_research
+en,correlation,,,相関関係,There is a strong correlation between the two variables.,2つの変数の間には強い相関関係がある,correlation|variables,academic,en_academic_research
+en,framework,,,枠組み,We developed a new theoretical framework.,私たちは新しい理論的枠組みを開発した,framework|theoretical,academic,en_academic_research
+en,implication,,,意味合い・示唆,This finding has important implications for future research.,この発見は今後の研究に重要な示唆を与える,implication|future,academic,en_academic_research
+en,underlying,,,根底にある,We need to understand the underlying cause.,私たちは根底にある原因を理解する必要がある,underlying|cause,academic,en_academic_research
+en,empirical,,,実証的な,This claim is supported by empirical evidence.,この主張は実証的な証拠によって裏付けられている,empirical|evidence,academic,en_academic_research
+en,contradict,,,矛盾する,This result contradicts our earlier assumption.,この結果は私たちの以前の仮定と矛盾する,contradicts|assumption,academic,en_academic_research
+en,substantial,,,かなりの・実質的な,There was a substantial increase in participation.,参加者にかなりの増加があった,substantial|increase,academic,en_academic_research
+en,arbitrary,,,恣意的な,The choice of threshold seems arbitrary.,閾値の選択は恣意的に見える,arbitrary|threshold,academic,en_academic_research
+en,plausible,,,もっともらしい,This is a plausible explanation for the data.,これはこのデータに対するもっともらしい説明だ,plausible|explanation,academic,en_academic_research
+en,rigorous,,,厳密な,The experiment followed a rigorous protocol.,この実験は厳密な手順に従った,rigorous|protocol,academic,en_academic_research
+en,ambiguous,,,曖昧な,The instructions were somewhat ambiguous.,その指示は幾分曖昧だった,ambiguous|somewhat,academic,en_academic_research
+en,inherent,,,本質的な・固有の,There is an inherent risk in this approach.,このアプローチには本質的なリスクがある,inherent|risk,academic,en_academic_research
+en,derive,,,導き出す,We can derive this formula from the previous equation.,この公式は前の方程式から導き出せる,derive|formula,academic,en_academic_research
+en,attribute,,,起因すると考える,Researchers attribute the decline to climate change.,研究者たちはこの減少を気候変動に起因すると考えている,attribute|decline,academic,en_academic_research
+en,constrain,,,制約する,Limited funding constrains the scope of the project.,限られた資金がプロジェクトの範囲を制約している,constrain|funding,academic,en_academic_research
+en,mitigate,,,緩和する,These measures help mitigate the risk.,これらの対策はリスクを緩和するのに役立つ,mitigate|measures,academic,en_academic_research
+en,coherent,,,一貫性のある,The argument was clear and coherent.,その主張は明確で一貫性があった,coherent|clear,academic,en_academic_research
+en,paradigm,,,パラダイム・範例,This discovery led to a paradigm shift.,この発見はパラダイムシフトをもたらした,paradigm|shift,academic,en_academic_research
+en,subsequent,,,その後の,Subsequent studies confirmed this result.,その後の研究がこの結果を裏付けた,subsequent|confirmed,academic,en_academic_research
+en,discrepancy,,,食い違い・不一致,There is a discrepancy between the two reports.,2つの報告書の間に食い違いがある,discrepancy|reports,academic,en_academic_research
+en,robust,,,頑健な・確固たる,The model proved to be robust under different conditions.,このモデルは異なる条件下でも頑健であることが証明された,robust|conditions,academic,en_academic_research
+en,nuance,,,微妙な違い・ニュアンス,The translation lost some of the original nuance.,その翻訳は元のニュアンスの一部を失った,nuance|translation,academic,en_academic_research
+en,counterintuitive,,,直感に反する,The result was counterintuitive at first.,その結果は最初は直感に反していた,counterintuitive|at first,academic,en_academic_research
+en,skepticism,,,懐疑心,The claim was met with skepticism.,その主張は懐疑心をもって迎えられた,skepticism|claim,academic,en_academic_research
+en,justify,,,正当化する,Can you justify this assumption?,あなたはこの仮定を正当化できますか,justify|assumption,academic,en_academic_research
+en,comprehensive,,,包括的な,The report provides a comprehensive overview.,その報告書は包括的な概観を提供している,comprehensive|overview,academic,en_academic_research
+en,preliminary,,,予備的な,These are preliminary findings only.,これらは予備的な結果に過ぎない,preliminary|only,academic,en_academic_research
+en,conclude,,,結論づける,We conclude that the plan was successful.,私たちはその計画は成功したと結論づける,conclude|successful,starter,en_daily_reasoning
+en,indicate,,,示す,The results indicate a clear trend.,その結果は明確な傾向を示している,indicate|trend,starter,en_daily_reasoning
+en,clarify,,,明確にする,Could you clarify your point?,あなたの論点を明確にしてもらえますか,clarify|point,starter,en_daily_reasoning
+en,emphasize,,,強調する,She emphasized the importance of practice.,彼女は練習の重要性を強調した,emphasized|importance,starter,en_daily_reasoning
+en,distinguish,,,区別する,It is hard to distinguish these two options.,この2つの選択肢を区別するのは難しい,distinguish|options,starter,en_daily_reasoning
+en,tendency,,,傾向,There is a tendency to avoid difficult tasks.,難しい作業を避ける傾向がある,tendency|avoid,starter,en_daily_reasoning
+en,reasonable,,,妥当な・合理的な,That seems like a reasonable explanation.,それは妥当な説明のようだ,reasonable|explanation,starter,en_daily_reasoning
+en,assumption,,,仮定・前提,Our assumption turned out to be wrong.,私たちの仮定は間違っていたことが分かった,assumption|wrong,starter,en_daily_reasoning
+en,outcome,,,結果,The outcome depends on several conditions.,結果はいくつかの条件による,outcome|conditions,starter,en_daily_reasoning
+en,circumstance,,,状況,Under these circumstances we should wait.,この状況下では私たちは待つべきだ,circumstances|wait,starter,en_daily_reasoning
+en,priority,,,優先事項,Safety is our top priority.,安全性が私たちの最優先事項だ,priority|safety,starter,en_daily_reasoning
+en,alternative,,,代替案,We need to consider an alternative.,私たちは代替案を検討する必要がある,alternative|consider,starter,en_daily_reasoning
+en,inevitable,,,避けられない,The delay was inevitable.,その遅れは避けられなかった,inevitable|delay,starter,en_daily_reasoning
+en,gradually,,,徐々に,The situation gradually improved.,状況は徐々に改善した,gradually|improved,starter,en_daily_reasoning
+en,context,,,文脈・状況,Read the sentence in context.,その文を文脈の中で読んでください,context|sentence,starter,en_daily_reasoning
+en,conventional,,,従来の・慣習的な,This is a conventional method.,これは従来の方法だ,conventional|method,starter,en_daily_reasoning
+en,inconsistent,,,矛盾した・一貫しない,His story was inconsistent.,彼の話は一貫していなかった,inconsistent|story,starter,en_daily_reasoning
+en,overlook,,,見落とす,We should not overlook this detail.,私たちはこの詳細を見落とすべきではない,overlook|detail,starter,en_daily_reasoning
+en,presumably,,,おそらく,Presumably the meeting will be postponed.,おそらく会議は延期されるだろう,presumably|postponed,starter,en_daily_reasoning
+en,variable,,,変数,The study controlled for several variables.,その研究はいくつかの変数を制御した,variable|controlled,academic,en_academic_research
+en,sample size,,,サンプルサイズ,A larger sample size improves reliability.,より大きなサンプルサイズは信頼性を向上させる,sample size|reliability,academic,en_academic_research
+en,statistically significant,,,統計的に有意な,The difference was statistically significant.,その差は統計的に有意だった,statistically significant|difference,academic,en_academic_research
+en,peer review,,,査読,The paper underwent rigorous peer review.,その論文は厳密な査読を受けた,peer review|rigorous,academic,en_academic_research
+en,citation,,,引用,This claim needs a citation.,この主張には引用が必要だ,citation|claim,academic,en_academic_research
+en,literature review,,,文献レビュー,The literature review covers the past decade.,その文献レビューは過去10年間を対象にしている,literature review|decade,academic,en_academic_research
+en,bias,,,偏り,Selection bias may explain this result.,選択バイアスがこの結果を説明するかもしれない,bias|explain,academic,en_academic_research
+en,validity,,,妥当性,The validity of the test was questioned.,その検査の妥当性が疑問視された,validity|questioned,academic,en_academic_research
+en,causation,,,因果関係,Correlation does not imply causation.,相関関係は因果関係を意味しない,correlation|causation,academic,en_academic_research
+en,confounding factor,,,交絡因子,A confounding factor may have skewed the results.,交絡因子が結果を歪めた可能性がある,confounding factor|skewed,academic,en_academic_research
+en,generalize,,,一般化する,We cannot generalize from a single case.,私たちは1つの事例から一般化することはできない,generalize|single case,academic,en_academic_research
+en,replicate,,,再現する,Other researchers failed to replicate the finding.,他の研究者たちはその知見を再現できなかった,replicate|finding,academic,en_academic_research
+en,anomaly,,,異常・例外,The data contained an unexplained anomaly.,そのデータには説明のつかない異常が含まれていた,anomaly|unexplained,academic,en_academic_research
+en,quantify,,,数値化する,It is difficult to quantify this effect.,この効果を数値化するのは難しい,quantify|effect,academic,en_academic_research
+en,novel,,,新規の・斬新な,The paper proposes a novel approach.,その論文は斬新なアプローチを提案している,novel|approach,academic,en_academic_research
+en,rationale,,,論拠・根拠,The rationale behind this decision is unclear.,この決定の背後にある論拠は不明確だ,rationale|unclear,academic,en_academic_research
+en,scope,,,範囲,The scope of this study is limited.,この研究の範囲は限定的だ,scope|limited,academic,en_academic_research
+en,limitation,,,限界・制約,Every method has its limitations.,どの手法にも限界がある,limitation|method,academic,en_academic_research
+en,implicit,,,暗黙の,There is an implicit assumption in this argument.,この議論には暗黙の仮定がある,implicit|assumption,academic,en_academic_research
+en,explicit,,,明示的な,The rule should be stated explicitly.,その規則は明示的に述べられるべきだ,explicit|stated,academic,en_academic_research
+en,counterargument,,,反論,The author addresses several counterarguments.,著者はいくつかの反論に対応している,counterargument|addresses,academic,en_academic_research
+en,synthesis,,,統合,The paper offers a synthesis of prior research.,その論文は先行研究の統合を提供している,synthesis|prior research,academic,en_academic_research
+en,postulate,,,仮定する・提唱する,The theory postulates a new mechanism.,その理論は新しいメカニズムを提唱している,postulate|mechanism,academic,en_academic_research
+en,corroborate,,,裏付ける,New evidence corroborates the earlier claim.,新しい証拠が以前の主張を裏付けている,corroborate|earlier claim,academic,en_academic_research
+en,refute,,,反証する,The experiment refuted the initial hypothesis.,その実験は最初の仮説を反証した,refute|hypothesis,academic,en_academic_research
+en,extrapolate,,,外挿する・推定する,We should not extrapolate too far from this data.,このデータからあまり遠くまで外挿するべきではない,extrapolate|data,academic,en_academic_research
+en,inference,,,推論,The inference was based on limited data.,その推論は限られたデータに基づいていた,inference|limited data,academic,en_academic_research
+en,rigor,,,厳密さ,The study lacked methodological rigor.,その研究は方法論的な厳密さを欠いていた,rigor|methodological,academic,en_academic_research
+en,objective,,,客観的な,We need an objective measure of success.,私たちは成功の客観的な指標が必要だ,objective|measure,academic,en_academic_research
+en,subjective,,,主観的な,This assessment is somewhat subjective.,この評価はやや主観的だ,subjective|assessment,academic,en_academic_research
+en,holistic,,,全体論的な,The researchers took a holistic approach.,研究者たちは全体論的なアプローチを取った,holistic|approach,academic,en_academic_research
+en,component,,,構成要素,Each component was tested separately.,各構成要素は個別にテストされた,component|separately,academic,en_academic_research
+en,dataset,,,データセット,The dataset includes over ten thousand entries.,そのデータセットには1万件以上のエントリが含まれる,dataset|entries,academic,en_academic_research
+en,outlier,,,外れ値,One outlier skewed the average significantly.,1つの外れ値が平均を大きく歪めた,outlier|average,academic,en_academic_research
+en,baseline,,,ベースライン・基準,Performance was compared to a baseline.,性能はベースラインと比較された,baseline|compared,academic,en_academic_research
+en,iteration,,,反復,The model improved with each iteration.,モデルは反復のたびに改善した,iteration|improved,academic,en_academic_research
+en,threshold,,,閾値,The signal exceeds the threshold value.,その信号は閾値を超えている,threshold|exceeds,academic,en_academic_research
+en,underpin,,,支える・根底にある,Strong evidence underpins this theory.,強力な証拠がこの理論を支えている,underpin|theory,academic,en_academic_research

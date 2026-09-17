@@ -1,0 +1,12 @@
+{
+  "vocabFiles": [
+    "vocab/en_starter.csv",
+    "vocab/en_toeic.csv",
+    "vocab/en_semiconductor.csv",
+    "vocab/en_academic2.csv",
+    "vocab/zh_hsk3.csv",
+    "vocab/zh_extra1.csv"
+  ],
+  "grammarChaptersFile": "grammar/chapters.csv",
+  "grammarExamplesFile": "grammar/examples.csv"
+}

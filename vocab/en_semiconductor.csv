@@ -1,0 +1,128 @@
+language,term,traditionalTerm,pinyin,meaning,exampleSentence,exampleTranslation,exampleKeyTerms,category,genre
+en,semiconductor,,,半導体,Silicon is the most common semiconductor material.,シリコンは最も一般的な半導体材料だ。,,semiconductor,en_semiconductor
+en,band gap,,,バンドギャップ,The band gap determines the material's conductivity.,バンドギャップはその材料の伝導性を決定する。,,semiconductor,en_semiconductor
+en,conduction band,,,伝導帯,Electrons move freely in the conduction band.,電子は伝導帯を自由に移動する。,,semiconductor,en_semiconductor
+en,valence band,,,価電子帯,Holes are created in the valence band.,正孔は価電子帯に生成される。,,semiconductor,en_semiconductor
+en,carrier,,,キャリア(電荷担体),Electrons and holes are the main carriers.,電子と正孔が主なキャリアだ。,,semiconductor,en_semiconductor
+en,mobility,,,移動度,High carrier mobility improves device speed.,高いキャリア移動度はデバイスの速度を向上させる。,,semiconductor,en_semiconductor
+en,doping,,,ドーピング,Doping increases the number of free carriers.,ドーピングは自由キャリアの数を増加させる。,,semiconductor,en_semiconductor
+en,dopant,,,ドーパント,Boron is a common p-type dopant.,ホウ素は一般的なp型ドーパントだ。,,semiconductor,en_semiconductor
+en,intrinsic,,,真性の,An intrinsic semiconductor has no dopants.,真性半導体にはドーパントが含まれない。,,semiconductor,en_semiconductor
+en,extrinsic,,,外因性の,Extrinsic semiconductors are doped intentionally.,外因性半導体は意図的にドープされている。,,semiconductor,en_semiconductor
+en,p-type,,,p型,This layer is a p-type semiconductor.,この層はp型半導体だ。,,semiconductor,en_semiconductor
+en,n-type,,,n型,Phosphorus doping creates an n-type region.,リンのドーピングはn型領域を作る。,,semiconductor,en_semiconductor
+en,junction,,,接合,The p-n junction forms a diode.,p-n接合はダイオードを形成する。,,semiconductor,en_semiconductor
+en,depletion region,,,空乏層,The depletion region has no free carriers.,空乏層には自由キャリアが存在しない。,,semiconductor,en_semiconductor
+en,wafer,,,ウエハー,The wafer was polished before processing.,そのウエハーは加工前に研磨された。,,semiconductor,en_semiconductor
+en,substrate,,,基板,The device is grown on a silicon substrate.,そのデバイスはシリコン基板上に成長させられる。,,semiconductor,en_semiconductor
+en,lattice,,,格子,Defects can disrupt the crystal lattice.,欠陥は結晶格子を乱すことがある。,,semiconductor,en_semiconductor
+en,crystal structure,,,結晶構造,Silicon has a diamond crystal structure.,シリコンはダイヤモンド型の結晶構造を持つ。,,semiconductor,en_semiconductor
+en,epitaxy,,,エピタキシー,Epitaxy allows precise layer growth.,エピタキシーは正確な層成長を可能にする。,,semiconductor,en_semiconductor
+en,resistivity,,,抵抗率,Resistivity decreases as doping increases.,抵抗率はドーピングが増えるほど減少する。,,semiconductor,en_semiconductor
+en,Fermi level,,,フェルミ準位,The Fermi level shifts with doping.,フェルミ準位はドーピングによって変化する。,,semiconductor,en_semiconductor
+en,energy level,,,エネルギー準位,Electrons occupy discrete energy levels.,電子は離散的なエネルギー準位を占める。,,semiconductor,en_semiconductor
+en,impurity,,,不純物,Even trace impurities affect performance.,わずかな不純物でも性能に影響する。,,semiconductor,en_semiconductor
+en,drift velocity,,,ドリフト速度,Drift velocity increases with electric field.,ドリフト速度は電場とともに増加する。,,semiconductor,en_semiconductor
+en,electric field,,,電場,A strong electric field accelerates carriers.,強い電場はキャリアを加速する。,,semiconductor,en_semiconductor
+en,charge carrier,,,電荷キャリア,Charge carriers transport current through the material.,電荷キャリアは材料中に電流を運ぶ。,,semiconductor,en_semiconductor
+en,majority carrier,,,多数キャリア,Electrons are the majority carriers in n-type material.,電子はn型材料における多数キャリアだ。,,semiconductor,en_semiconductor
+en,minority carrier,,,少数キャリア,Minority carrier lifetime affects device efficiency.,少数キャリアの寿命はデバイス効率に影響する。,,semiconductor,en_semiconductor
+en,recombination,,,再結合,Recombination reduces the number of free carriers.,再結合は自由キャリアの数を減少させる。,,semiconductor,en_semiconductor
+en,diffusion,,,拡散,Diffusion moves carriers from high to low concentration.,拡散はキャリアを高濃度から低濃度へ移動させる。,,semiconductor,en_semiconductor
+en,quantum well,,,量子井戸,The quantum well confines electrons in one dimension.,量子井戸は電子を1次元に閉じ込める。,,semiconductor,en_semiconductor
+en,heterostructure,,,ヘテロ構造,Heterostructures combine two different materials.,ヘテロ構造は2つの異なる材料を組み合わせる。,,semiconductor,en_semiconductor
+en,threshold voltage,,,しきい値電圧,The transistor turns on above the threshold voltage.,トランジスタはしきい値電圧を超えるとオンになる。,,semiconductor,en_semiconductor
+en,breakdown voltage,,,降伏電圧,The diode failed above its breakdown voltage.,そのダイオードは降伏電圧を超えて故障した。,,semiconductor,en_semiconductor
+en,leakage current,,,リーク電流,Leakage current increases at high temperature.,リーク電流は高温で増加する。,,semiconductor,en_semiconductor
+en,thermal equilibrium,,,熱平衡,The system reached thermal equilibrium.,システムは熱平衡に達した。,,semiconductor,en_semiconductor
+en,annealing,,,アニーリング(焼きなまし),Annealing repairs damage from ion implantation.,アニーリングはイオン注入による損傷を修復する。,,semiconductor,en_semiconductor
+en,ion implantation,,,イオン注入,Ion implantation introduces dopants precisely.,イオン注入は正確にドーパントを導入する。,,semiconductor,en_semiconductor
+en,photolithography,,,フォトリソグラフィー,Photolithography defines the circuit pattern.,フォトリソグラフィーは回路パターンを規定する。,,semiconductor,en_semiconductor
+en,etching,,,エッチング,Etching removes unwanted material from the surface.,エッチングは表面から不要な材料を除去する。,,semiconductor,en_semiconductor
+en,deposition,,,堆積,Deposition forms a thin film on the substrate.,堆積は基板上に薄膜を形成する。,,semiconductor,en_semiconductor
+en,oxide layer,,,酸化膜,The oxide layer insulates the gate.,酸化膜はゲートを絶縁する。,,semiconductor,en_semiconductor
+en,gate,,,ゲート,Voltage on the gate controls the current.,ゲートにかかる電圧が電流を制御する。,,semiconductor,en_semiconductor
+en,drain,,,ドレイン,Current flows from source to drain.,電流はソースからドレインへ流れる。,,semiconductor,en_semiconductor
+en,source,,,ソース,The source supplies carriers to the channel.,ソースはチャネルにキャリアを供給する。,,semiconductor,en_semiconductor
+en,channel,,,チャネル,The channel forms between source and drain.,チャネルはソースとドレインの間に形成される。,,semiconductor,en_semiconductor
+en,transistor,,,トランジスタ,The transistor amplifies the input signal.,トランジスタは入力信号を増幅する。,,semiconductor,en_semiconductor
+en,diode,,,ダイオード,The diode allows current to flow in one direction.,ダイオードは電流を一方向にのみ流す。,,semiconductor,en_semiconductor
+en,rectifier,,,整流器,The rectifier converts AC to DC.,整流器は交流を直流に変換する。,,semiconductor,en_semiconductor
+en,capacitance,,,静電容量,Capacitance depends on the oxide thickness.,静電容量は酸化膜の厚さに依存する。,,semiconductor,en_semiconductor
+en,resistance,,,抵抗,Resistance increases with temperature.,抵抗は温度とともに増加する。,,semiconductor,en_semiconductor
+en,insulator,,,絶縁体,An insulator blocks the flow of current.,絶縁体は電流の流れを妨げる。,,semiconductor,en_semiconductor
+en,conductor,,,導体,Copper is an excellent conductor.,銅は優れた導体だ。,,semiconductor,en_semiconductor
+en,permittivity,,,誘電率,Permittivity affects the capacitor's performance.,誘電率はコンデンサの性能に影響する。,,semiconductor,en_semiconductor
+en,saturation,,,飽和,The transistor operates in saturation mode.,トランジスタは飽和モードで動作する。,,semiconductor,en_semiconductor
+en,amplification,,,増幅,Amplification boosts the weak input signal.,増幅は弱い入力信号を強める。,,semiconductor,en_semiconductor
+en,bandwidth,,,帯域幅,Wider bandwidth allows faster data transfer.,より広い帯域幅はより速いデータ転送を可能にする。,,semiconductor,en_semiconductor
+en,frequency response,,,周波数応答,The frequency response was measured across a wide range.,周波数応答は広い範囲で測定された。,,semiconductor,en_semiconductor
+en,noise,,,ノイズ,Thermal noise limits the signal quality.,熱雑音は信号品質を制限する。,,semiconductor,en_semiconductor
+en,signal-to-noise ratio,,,信号対雑音比,A high signal-to-noise ratio improves clarity.,高い信号対雑音比は明瞭さを向上させる。,,semiconductor,en_semiconductor
+en,defect,,,欠陥,Crystal defects reduce carrier mobility.,結晶欠陥はキャリア移動度を低下させる。,,semiconductor,en_semiconductor
+en,vacancy,,,空孔,A vacancy is a missing atom in the lattice.,空孔とは格子中の原子の欠落だ。,,semiconductor,en_semiconductor
+en,interstitial,,,格子間原子,Interstitial atoms distort the lattice structure.,格子間原子は格子構造を歪ませる。,,semiconductor,en_semiconductor
+en,grain boundary,,,粒界,Grain boundaries scatter charge carriers.,粒界は電荷キャリアを散乱させる。,,semiconductor,en_semiconductor
+en,polycrystalline,,,多結晶の,Polycrystalline silicon has lower mobility than single crystal.,多結晶シリコンは単結晶より移動度が低い。,,semiconductor,en_semiconductor
+en,amorphous,,,非晶質の,Amorphous silicon lacks a regular lattice structure.,非晶質シリコンは規則的な格子構造を持たない。,,semiconductor,en_semiconductor
+en,monocrystalline,,,単結晶の,Monocrystalline wafers offer the highest performance.,単結晶ウエハーは最高の性能を提供する。,,semiconductor,en_semiconductor
+en,silicon,,,シリコン,Silicon remains the dominant semiconductor material.,シリコンは依然として主要な半導体材料だ。,,semiconductor,en_semiconductor
+en,germanium,,,ゲルマニウム,Germanium was used in early transistors.,ゲルマニウムは初期のトランジスタに使われた。,,semiconductor,en_semiconductor
+en,gallium arsenide,,,ヒ化ガリウム,Gallium arsenide is used in high-speed devices.,ヒ化ガリウムは高速デバイスに使われる。,,semiconductor,en_semiconductor
+en,compound semiconductor,,,化合物半導体,Compound semiconductors combine two or more elements.,化合物半導体は2つ以上の元素を組み合わせる。,,semiconductor,en_semiconductor
+en,wide bandgap,,,ワイドバンドギャップ,Wide bandgap materials tolerate higher voltages.,ワイドバンドギャップ材料はより高い電圧に耐える。,,semiconductor,en_semiconductor
+en,direct bandgap,,,直接遷移型バンドギャップ,Direct bandgap materials emit light efficiently.,直接遷移型の材料は効率的に光を放出する。,,semiconductor,en_semiconductor
+en,indirect bandgap,,,間接遷移型バンドギャップ,Silicon has an indirect bandgap.,シリコンは間接遷移型のバンドギャップを持つ。,,semiconductor,en_semiconductor
+en,photon,,,光子,The photon excites an electron across the band gap.,光子はバンドギャップを越えて電子を励起する。,,semiconductor,en_semiconductor
+en,phonon,,,フォノン,Phonons carry heat through the crystal lattice.,フォノンは結晶格子を通して熱を運ぶ。,,semiconductor,en_semiconductor
+en,exciton,,,励起子,An exciton forms when an electron and hole bind together.,励起子は電子と正孔が結合すると形成される。,,semiconductor,en_semiconductor
+en,quantum confinement,,,量子閉じ込め,Quantum confinement changes the material's optical properties.,量子閉じ込めは材料の光学特性を変化させる。,,semiconductor,en_semiconductor
+en,nanostructure,,,ナノ構造,Nanostructures exhibit unique electronic properties.,ナノ構造は独特な電子特性を示す。,,semiconductor,en_semiconductor
+en,thin film,,,薄膜,The thin film was deposited under vacuum.,その薄膜は真空中で堆積された。,,semiconductor,en_semiconductor
+en,sputtering,,,スパッタリング,Sputtering deposits a uniform metal layer.,スパッタリングは均一な金属層を堆積させる。,,semiconductor,en_semiconductor
+en,chemical vapor deposition,,,化学気相成長,Chemical vapor deposition grows high-quality films.,化学気相成長は高品質な膜を成長させる。,,semiconductor,en_semiconductor
+en,molecular beam epitaxy,,,分子線エピタキシー,Molecular beam epitaxy allows atomic-layer precision.,分子線エピタキシーは原子層レベルの精度を可能にする。,,semiconductor,en_semiconductor
+en,characterization,,,特性評価,Characterization confirmed the expected band gap.,特性評価は予想通りのバンドギャップを確認した。,,semiconductor,en_semiconductor
+en,temperature dependence,,,温度依存性,The temperature dependence of resistivity was studied.,抵抗率の温度依存性が研究された。,,semiconductor,en_semiconductor
+en,activation energy,,,活性化エネルギー,The activation energy was extracted from the data.,活性化エネルギーはデータから算出された。,,semiconductor,en_semiconductor
+en,scattering,,,散乱,Phonon scattering limits carrier mobility at high temperature.,フォノン散乱は高温でキャリア移動度を制限する。,,semiconductor,en_semiconductor
+en,effective mass,,,有効質量,The effective mass differs between electrons and holes.,有効質量は電子と正孔で異なる。,,semiconductor,en_semiconductor
+en,density of states,,,状態密度,The density of states determines carrier concentration.,状態密度はキャリア濃度を決定する。,,semiconductor,en_semiconductor
+en,equilibrium,,,平衡,The carrier concentration was measured at equilibrium.,キャリア濃度は平衡状態で測定された。,,semiconductor,en_semiconductor
+en,steady state,,,定常状態,The device reached a steady state after several seconds.,デバイスは数秒後に定常状態に達した。,,semiconductor,en_semiconductor
+en,degradation,,,劣化,Device degradation was observed after prolonged use.,長期使用後にデバイスの劣化が観察された。,,semiconductor,en_semiconductor
+en,reliability,,,信頼性,Reliability testing is essential before mass production.,量産前には信頼性試験が不可欠だ。,,semiconductor,en_semiconductor
+en,yield,,,歩留まり,The fabrication process improved the yield significantly.,その製造プロセスは歩留まりを大幅に改善した。,,semiconductor,en_semiconductor
+en,fabrication,,,製造・作製,Fabrication of the device took several weeks.,デバイスの作製には数週間かかった。,,semiconductor,en_semiconductor
+en,gate dielectric,,,ゲート絶縁膜,The gate dielectric separates the gate from the channel.,ゲート絶縁膜はゲートとチャネルを分離する。,,semiconductor,en_semiconductor
+en,inversion layer,,,反転層,An inversion layer forms at the semiconductor surface.,反転層は半導体表面に形成される。,,semiconductor,en_semiconductor
+en,enhancement mode,,,エンハンスメント型(通常オフ型),An enhancement mode device is off at zero gate voltage.,エンハンスメント型デバイスはゲート電圧ゼロでオフになる。,,semiconductor,en_semiconductor
+en,depletion mode,,,デプレッション型(通常オン型),A depletion mode device conducts at zero gate voltage.,デプレッション型デバイスはゲート電圧ゼロで導通する。,,semiconductor,en_semiconductor
+en,channel length modulation,,,チャネル長変調,Channel length modulation slightly increases current in saturation.,チャネル長変調は飽和領域で電流をわずかに増加させる。,,semiconductor,en_semiconductor
+en,transconductance,,,相互コンダクタンス,Transconductance measures how gate voltage controls drain current.,相互コンダクタンスはゲート電圧がドレイン電流をどう制御するかを示す。,,semiconductor,en_semiconductor
+en,subthreshold leakage,,,サブスレッショルドリーク電流,Subthreshold leakage increases power consumption in standby mode.,サブスレッショルドリークはスタンバイ時の消費電力を増加させる。,,semiconductor,en_semiconductor
+en,body effect,,,基板バイアス効果,The body effect raises the threshold voltage.,基板バイアス効果はしきい値電圧を上昇させる。,,semiconductor,en_semiconductor
+en,pinch-off,,,ピンチオフ,Pinch-off occurs near the drain in saturation mode.,ピンチオフは飽和モードでドレイン付近に起こる。,,semiconductor,en_semiconductor
+en,band diagram,,,バンド図,The band diagram shows the energy levels across the junction.,バンド図は接合部のエネルギー準位を示す。,,semiconductor,en_semiconductor
+en,triode region,,,三極管領域(線形領域),In the triode region the transistor behaves like a resistor.,三極管領域ではトランジスタは抵抗のように振る舞う。,,semiconductor,en_semiconductor
+en,work function,,,仕事関数,The work function affects the contact behavior of the metal.,仕事関数は金属の接触特性に影響する。,,semiconductor,en_semiconductor
+en,CMOS,,,相補型MOS,CMOS combines p-channel and n-channel transistors.,CMOSはp型とn型のトランジスタを組み合わせる。,,semiconductor,en_semiconductor
+en,polysilicon,,,多結晶シリコン(ポリシリコン),Polysilicon is commonly used as the gate material.,ポリシリコンはゲート材料として一般的に使われる。,,semiconductor,en_semiconductor
+en,thermal oxidation,,,熱酸化,Thermal oxidation grows a silicon dioxide layer on the wafer.,熱酸化はウエハー上に二酸化シリコン層を成長させる。,,semiconductor,en_semiconductor
+en,surface passivation,,,表面パッシベーション,Surface passivation reduces defect states at the interface.,表面パッシベーションは界面の欠陥状態を減少させる。,,semiconductor,en_semiconductor
+en,weak inversion,,,弱反転,Weak inversion occurs just below the threshold voltage.,弱反転はしきい値電圧のすぐ下で起こる。,,semiconductor,en_semiconductor
+en,overdrive voltage,,,オーバードライブ電圧,The overdrive voltage determines how strongly the transistor conducts.,オーバードライブ電圧はトランジスタがどれだけ強く導通するかを決める。,,semiconductor,en_semiconductor
+en,output resistance,,,出力抵抗,High output resistance improves the amplifier's gain.,高い出力抵抗は増幅器の利得を向上させる。,,semiconductor,en_semiconductor
+en,Fermi-Dirac distribution,,,フェルミ・ディラック分布,The Fermi-Dirac distribution describes electron occupancy at a given temperature.,フェルミ・ディラック分布はある温度における電子の占有状態を表す。,,semiconductor,en_semiconductor
+en,built-in potential,,,内蔵電位,The built-in potential exists across the junction without any applied voltage.,内蔵電位は電圧を加えなくても接合部に存在する。,,semiconductor,en_semiconductor
+en,forward bias,,,順方向バイアス,Forward bias reduces the width of the depletion region.,順方向バイアスは空乏層の幅を減少させる。,,semiconductor,en_semiconductor
+en,reverse bias,,,逆方向バイアス,Reverse bias increases the width of the depletion region.,逆方向バイアスは空乏層の幅を増加させる。,,semiconductor,en_semiconductor
+en,diffusion current,,,拡散電流,Diffusion current arises from a difference in carrier concentration.,拡散電流はキャリア濃度の差から生じる。,,semiconductor,en_semiconductor
+en,space charge region,,,空間電荷領域,The space charge region contains fixed ionized dopant atoms.,空間電荷領域には固定されたイオン化ドーパント原子が存在する。,,semiconductor,en_semiconductor
+en,acceptor,,,アクセプタ,An acceptor atom creates a hole in the crystal lattice.,アクセプタ原子は結晶格子に正孔を作る。,,semiconductor,en_semiconductor
+en,donor,,,ドナー,A donor atom contributes a free electron to the lattice.,ドナー原子は格子に自由電子を提供する。,,semiconductor,en_semiconductor
+en,Zener breakdown,,,ツェナー降伏,Zener breakdown occurs through a strong electric field at the junction.,ツェナー降伏は接合部の強い電場によって起こる。,,semiconductor,en_semiconductor
+en,avalanche breakdown,,,なだれ降伏,Avalanche breakdown results from impact ionization of carriers.,なだれ降伏はキャリアの衝突電離によって生じる。,,semiconductor,en_semiconductor
+en,doping concentration,,,ドーピング濃度,Higher doping concentration reduces the resistivity of the material.,ドーピング濃度が高いほど材料の抵抗率は低下する。,,semiconductor,en_semiconductor
+en,diffusion length,,,拡散長,The diffusion length is the average distance a carrier travels before recombining.,拡散長はキャリアが再結合するまでに移動する平均距離だ。,,semiconductor,en_semiconductor
+en,band bending,,,バンド湾曲,Band bending occurs near the junction interface.,バンド湾曲は接合界面付近で起こる。,,semiconductor,en_semiconductor
