@@ -143,6 +143,15 @@ en_phrasalVerbs,en_toeic_business,We need to follow up on this inquiry.,私た�
 en_phrasalVerbs,en_semiconductor,The team carried out a series of experiments.,チームは一連の実験を実施した。,S:The team|V:carried out|O:a series of experiments.
 en_phrasalVerbs,en_toeic_business,The client asked us to follow up on the revised quotation.,顧客は改訂した見積書についてフォローアップするよう私たちに依頼した。,S:The client|V:asked|O:us|M:to follow up on the revised quotation.
 en_phrasalVerbs,en_semiconductor,The engineers had to figure out why the mobility dropped off.,エンジニアたちは移動度がなぜ低下したのか見つけ出す必要があった。,S:The engineers|V:had to figure out|O:why the mobility dropped off.
+en_presentPerfect,en_toeic_business,The committee has already approved the new budget proposal.,委員会はすでに新しい予算案を承認した。,S:The committee|V:has already approved|O:the new budget proposal.
+en_passiveVoice,en_toeic_business,All the submitted applications were evaluated by the hiring committee.,提出された応募書類はすべて採用委員会によって評価された。,S:All the submitted applications|V:were evaluated|M:by the hiring committee.
+en_relativeClause,en_toeic_business,This is the department where most new employees receive their training.,これがほとんどの新入社員が研修を受ける部署だ。,S:This|V:is|C:the department|M:where most new employees receive their training.
+en_subjunctive,en_toeic_business,"If the shipment arrived on time, the client would be fully satisfied.",もし出荷が時間通りに到着すれば、顧客は十分に満足するだろう。,"M:If the shipment arrived on time,|S:the client|V:would be|C:fully satisfied."
+en_participial,en_toeic_business,"Having reviewed the applicant's résumé, the manager decided to schedule an interview.",応募者の履歴書を検討した上で、マネージャーは面接を予定することに決めた。,"M:Having reviewed the applicant's résumé,|S:the manager|V:decided|O:to schedule an interview."
+en_concessive,en_toeic_business,"Despite the considerable cost, the company decided to invest in new equipment.",かなりのコストにもかかわらず、会社は新しい設備に投資することを決めた。,"M:Despite the considerable cost,|S:the company|V:decided|O:to invest in new equipment."
+en_hedging,en_toeic_business,The survey results seem to indicate significant growth in consumer demand.,その調査結果は消費者需要の著しい伸びを示しているようだ。,S:The survey results|V:seem to indicate|O:significant growth in consumer demand.
+en_fillers,en_toeic_business,"Actually, the department has already recommended a new supplier.",実は、その部署はすでに新しい仕入先を推薦した。,"M:Actually,|S:the department|V:has already recommended|O:a new supplier."
+en_phrasalVerbs,en_toeic_business,The manufacturer had to figure out why the shipment was delayed.,その製造業者は、なぜ出荷が遅れたのか見つけ出す必要があった。,S:The manufacturer|V:had to figure out|O:why the shipment was delayed.
 zh_leGuo,zh_daily_life,我去过很多地方找机会。,私は機会を探すために多くの場所に行ったことがある。,
 zh_leGuo,zh_daily_life,我已经联系了他。,私はすでに彼に連絡した。,
 zh_leGuo,zh_academic,科学家已经发现了新的方法。,科学者はすでに新しい方法を発見した。,
