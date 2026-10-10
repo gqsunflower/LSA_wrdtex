@@ -1,24 +1,8 @@
 language,term,traditionalTerm,pinyin,meaning,exampleSentence,exampleTranslation,exampleKeyTerms,category,genre
-en,postulate,,,仮定する・前提とする,The theory postulates that all matter is composed of small particles.,この理論は、すべての物質が微小な粒子から成ると仮定している。,postulate|composed,academic2,en_academic_research
-en,corroborate,,,裏付ける,The new data corroborate the earlier findings.,新しいデータは以前の知見を裏付けている。,corroborate|findings,academic2,en_academic_research
-en,extrapolate,,,外挿する・推定する,Researchers extrapolated the trend to predict future growth.,研究者たちはその傾向を外挿して将来の成長を予測した。,extrapolate|predict,academic2,en_academic_research
 en,infer,,,推論する,From the data we can infer that the effect is significant.,データから、その効果は有意であると推論できる。,infer|significant,academic2,en_academic_research
-en,underlying,,,根底にある・基礎となる,The underlying cause of the problem remains unclear.,その問題の根底にある原因は依然として不明だ。,underlying|remains,academic2,en_academic_research
-en,empirical,,,実証的な・経験的な,The claim is supported by empirical evidence.,その主張は実証的な証拠によって裏付けられている。,empirical|evidence,academic2,en_academic_research
-en,methodology,,,方法論,The study adopted a rigorous methodology.,その研究は厳密な方法論を採用した。,methodology|rigorous,academic2,en_academic_research
-en,plausible,,,もっともらしい・説得力のある,This explanation seems more plausible than the previous one.,この説明は以前のものよりもっともらしく思える。,plausible|explanation,academic2,en_academic_research
-en,discrepancy,,,食い違い・不一致,There is a discrepancy between the two sets of results.,二つの結果セットの間に食い違いがある。,discrepancy|results,academic2,en_academic_research
 en,correlate,,,相関する,Income tends to correlate with education level.,収入は教育水準と相関する傾向がある。,correlate|education,academic2,en_academic_research
-en,mitigate,,,緩和する,We took steps to mitigate the risk.,私たちはそのリスクを緩和するための対策を取った。,mitigate|risk,academic2,en_daily_reasoning
-en,robust,,,堅牢な・頑健な,The model proved robust across different conditions.,そのモデルは異なる条件下でも頑健であることが証明された。,robust|conditions,academic2,en_academic_research
 en,salient,,,顕著な・際立った,The most salient feature of the data is its consistency.,このデータの最も顕著な特徴はその一貫性だ。,salient|consistency,academic2,en_academic_research
-en,presumably,,,おそらく,The delay was presumably caused by a technical issue.,その遅延はおそらく技術的な問題によって引き起こされた。,presumably|caused,academic2,en_daily_reasoning
 en,arguably,,,ほぼ間違いなく,This is arguably the most important factor.,これはほぼ間違いなく最も重要な要因だ。,arguably|important,academic2,en_daily_reasoning
-en,inherent,,,固有の・本質的な,There are inherent limitations to this approach.,この取り組み方には固有の限界がある。,inherent|limitations,academic2,en_academic_research
-en,subsequent,,,その後の,Subsequent experiments confirmed the initial result.,その後の実験が最初の結果を確認した。,subsequent|confirmed,academic2,en_academic_research
-en,preliminary,,,予備的な,These are only preliminary findings.,これらはあくまで予備的な知見にすぎない。,preliminary|findings,academic2,en_academic_research
-en,ambiguous,,,曖昧な,The instructions were somewhat ambiguous.,その指示はいくらか曖昧だった。,ambiguous|instructions,academic2,en_daily_reasoning
-en,coherent,,,筋の通った・一貫した,The argument is coherent but lacks strong evidence.,その主張は筋が通っているが強い証拠が欠けている。,coherent|evidence,academic2,en_academic_research
 en,ubiquitous,,,至る所にある・遍在する,Smartphones have become ubiquitous in modern life.,スマートフォンは現代生活のいたる所に存在するようになった。,ubiquitous|modern,academic2,en_academic_research
 en,prevalent,,,広く行き渡った,This misconception is still prevalent among students.,この誤解は今も学生の間で広く見られる。,prevalent|misconception,academic2,en_academic_research
 en,substantiate,,,実証する・裏付ける,The report fails to substantiate its main claim.,その報告書は主な主張を実証できていない。,substantiate|claim,academic2,en_academic_research
