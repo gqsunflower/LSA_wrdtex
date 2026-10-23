@@ -145,6 +145,11 @@ en_phrasalVerbs,en_toeic_business,The client asked us to follow up on the revise
 en_phrasalVerbs,en_semiconductor,The engineers had to figure out why the mobility dropped off.,エンジニアたちは移動度がなぜ低下したのか見つけ出す必要があった。,S:The engineers|V:had to figure out|O:why the mobility dropped off.
 en_presentPerfect,en_toeic_business,The committee has already approved the new budget proposal.,委員会はすでに新しい予算案を承認した。,S:The committee|V:has already approved|O:the new budget proposal.
 en_passiveVoice,en_toeic_business,All the submitted applications were evaluated by the hiring committee.,提出された応募書類はすべて採用委員会によって評価された。,S:All the submitted applications|V:were evaluated|M:by the hiring committee.
+en_passiveVoice,en_toeic_business,The potted plants on the windowsill are watered every morning by the office staff.,窓辺の鉢植えは毎朝オフィスのスタッフによって水をやられる。,S:The potted plants on the windowsill|V:are watered|M:every morning by the office staff.
+en_passiveVoice,en_toeic_business,A wheelbarrow full of soil is being pushed toward the garden by one of the workers.,土でいっぱいの一輪手押し車は、作業員の一人によって庭に向かって押されている。,S:A wheelbarrow full of soil|V:is being pushed|M:toward the garden by one of the workers.
+en_passiveVoice,en_toeic_business,The folding chairs are being arranged side by side for the afternoon meeting.,折りたたみ椅子は午後の会議のために並べて配置されている。,S:The folding chairs|V:are being arranged|M:side by side for the afternoon meeting.
+en_passiveVoice,en_toeic_business,A ladder has been placed against the wall near the photocopier.,はしごがコピー機の近くの壁に立てかけられている。,S:A ladder|V:has been placed|M:against the wall near the photocopier.
+en_passiveVoice,en_toeic_business,The kitchen utensils are kept near the sink for easy access.,台所用具はすぐ使えるようにシンクの近くに保管されている。,S:The kitchen utensils|V:are kept|M:near the sink for easy access.
 en_relativeClause,en_toeic_business,This is the department where most new employees receive their training.,これがほとんどの新入社員が研修を受ける部署だ。,S:This|V:is|C:the department|M:where most new employees receive their training.
 en_subjunctive,en_toeic_business,"If the shipment arrived on time, the client would be fully satisfied.",もし出荷が時間通りに到着すれば、顧客は十分に満足するだろう。,"M:If the shipment arrived on time,|S:the client|V:would be|C:fully satisfied."
 en_participial,en_toeic_business,"Having reviewed the applicant's résumé, the manager decided to schedule an interview.",応募者の履歴書を検討した上で、マネージャーは面接を予定することに決めた。,"M:Having reviewed the applicant's résumé,|S:the manager|V:decided|O:to schedule an interview."
@@ -152,6 +157,9 @@ en_concessive,en_toeic_business,"Despite the considerable cost, the company deci
 en_hedging,en_toeic_business,The survey results seem to indicate significant growth in consumer demand.,その調査結果は消費者需要の著しい伸びを示しているようだ。,S:The survey results|V:seem to indicate|O:significant growth in consumer demand.
 en_fillers,en_toeic_business,"Actually, the department has already recommended a new supplier.",実は、その部署はすでに新しい仕入先を推薦した。,"M:Actually,|S:the department|V:has already recommended|O:a new supplier."
 en_phrasalVerbs,en_toeic_business,The manufacturer had to figure out why the shipment was delayed.,その製造業者は、なぜ出荷が遅れたのか見つけ出す必要があった。,S:The manufacturer|V:had to figure out|O:why the shipment was delayed.
+en_phrasalVerbs,en_toeic_business,The receptionist is handing the visitor badges over to each guest at the front desk.,受付係は各来客にビジターバッジを手渡している。,S:The receptionist|V:is handing|O:the visitor badges|M:over to each guest at the front desk.
+en_phrasalVerbs,en_toeic_business,The delivery staff loaded up the van with boxes before heading to the warehouse.,配達スタッフは倉庫に向かう前に箱をバンに積み込んだ。,S:The delivery staff|V:loaded up|O:the van|M:with boxes before heading to the warehouse.
+en_phrasalVerbs,en_toeic_business,Passengers waiting in line pointed out the correct platform to a confused traveler.,列に並んで待っていた乗客たちは、戸惑っている旅行者に正しいホームを指し示した。,S:Passengers waiting in line|V:pointed out|O:the correct platform|M:to a confused traveler.
 zh_leGuo,zh_daily_life,我去过很多地方找机会。,私は機会を探すために多くの場所に行ったことがある。,
 zh_leGuo,zh_daily_life,我已经联系了他。,私はすでに彼に連絡した。,
 zh_leGuo,zh_academic,科学家已经发现了新的方法。,科学者はすでに新しい方法を発見した。,
