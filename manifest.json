@@ -9,6 +9,9 @@
     "vocab/zh_hsk3.csv",
     "vocab/zh_extra1.csv"
   ],
+  "etymologyFiles": [
+    "etymology/etymology.csv"
+  ],
   "grammarChaptersFile": "grammar/chapters.csv",
   "grammarExamplesFile": "grammar/examples.csv"
 }
