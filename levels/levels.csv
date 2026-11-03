@@ -1,0 +1,722 @@
+kind,language,key,level
+vocab,en,infer,860
+vocab,en,correlate,860
+vocab,en,salient,860
+vocab,en,arguably,860
+vocab,en,ubiquitous,860
+vocab,en,prevalent,860
+vocab,en,substantiate,860
+vocab,en,elucidate,860
+vocab,en,foster,860
+vocab,en,semiconductor,900
+vocab,en,band gap,900
+vocab,en,conduction band,900
+vocab,en,valence band,900
+vocab,en,carrier,900
+vocab,en,mobility,900
+vocab,en,doping,900
+vocab,en,dopant,900
+vocab,en,intrinsic,900
+vocab,en,extrinsic,900
+vocab,en,p-type,900
+vocab,en,n-type,900
+vocab,en,junction,900
+vocab,en,depletion region,900
+vocab,en,wafer,900
+vocab,en,substrate,900
+vocab,en,lattice,900
+vocab,en,crystal structure,900
+vocab,en,epitaxy,900
+vocab,en,resistivity,900
+vocab,en,Fermi level,900
+vocab,en,energy level,900
+vocab,en,impurity,900
+vocab,en,drift velocity,900
+vocab,en,electric field,900
+vocab,en,charge carrier,900
+vocab,en,majority carrier,900
+vocab,en,minority carrier,900
+vocab,en,recombination,900
+vocab,en,diffusion,900
+vocab,en,quantum well,900
+vocab,en,heterostructure,900
+vocab,en,threshold voltage,900
+vocab,en,breakdown voltage,900
+vocab,en,leakage current,900
+vocab,en,thermal equilibrium,900
+vocab,en,annealing,900
+vocab,en,ion implantation,900
+vocab,en,photolithography,900
+vocab,en,etching,900
+vocab,en,deposition,900
+vocab,en,oxide layer,900
+vocab,en,gate,900
+vocab,en,drain,900
+vocab,en,source,900
+vocab,en,channel,900
+vocab,en,transistor,900
+vocab,en,diode,900
+vocab,en,rectifier,900
+vocab,en,capacitance,900
+vocab,en,resistance,900
+vocab,en,insulator,900
+vocab,en,conductor,900
+vocab,en,permittivity,900
+vocab,en,saturation,900
+vocab,en,amplification,900
+vocab,en,bandwidth,900
+vocab,en,frequency response,900
+vocab,en,noise,900
+vocab,en,signal-to-noise ratio,900
+vocab,en,defect,900
+vocab,en,vacancy,900
+vocab,en,interstitial,900
+vocab,en,grain boundary,900
+vocab,en,polycrystalline,900
+vocab,en,amorphous,900
+vocab,en,monocrystalline,900
+vocab,en,silicon,900
+vocab,en,germanium,900
+vocab,en,gallium arsenide,900
+vocab,en,compound semiconductor,900
+vocab,en,wide bandgap,900
+vocab,en,direct bandgap,900
+vocab,en,indirect bandgap,900
+vocab,en,photon,900
+vocab,en,phonon,900
+vocab,en,exciton,900
+vocab,en,quantum confinement,900
+vocab,en,nanostructure,900
+vocab,en,thin film,900
+vocab,en,sputtering,900
+vocab,en,chemical vapor deposition,900
+vocab,en,molecular beam epitaxy,900
+vocab,en,characterization,900
+vocab,en,temperature dependence,900
+vocab,en,activation energy,900
+vocab,en,scattering,900
+vocab,en,effective mass,900
+vocab,en,density of states,900
+vocab,en,equilibrium,900
+vocab,en,steady state,900
+vocab,en,degradation,900
+vocab,en,reliability,900
+vocab,en,yield,900
+vocab,en,fabrication,900
+vocab,en,gate dielectric,900
+vocab,en,inversion layer,900
+vocab,en,enhancement mode,900
+vocab,en,depletion mode,900
+vocab,en,channel length modulation,900
+vocab,en,transconductance,900
+vocab,en,subthreshold leakage,900
+vocab,en,body effect,900
+vocab,en,pinch-off,900
+vocab,en,band diagram,900
+vocab,en,triode region,900
+vocab,en,work function,900
+vocab,en,CMOS,900
+vocab,en,polysilicon,900
+vocab,en,thermal oxidation,900
+vocab,en,surface passivation,900
+vocab,en,weak inversion,900
+vocab,en,overdrive voltage,900
+vocab,en,output resistance,900
+vocab,en,Fermi-Dirac distribution,900
+vocab,en,built-in potential,900
+vocab,en,forward bias,900
+vocab,en,reverse bias,900
+vocab,en,diffusion current,900
+vocab,en,space charge region,900
+vocab,en,acceptor,900
+vocab,en,donor,900
+vocab,en,Zener breakdown,900
+vocab,en,avalanche breakdown,900
+vocab,en,doping concentration,900
+vocab,en,diffusion length,900
+vocab,en,band bending,900
+vocab,en,decide,600
+vocab,en,determine,600
+vocab,en,significant,600
+vocab,en,approach,600
+vocab,en,evidence,600
+vocab,en,factor,600
+vocab,en,contrast,730
+vocab,en,assume,600
+vocab,en,consistent,730
+vocab,en,define,600
+vocab,en,previous,600
+vocab,en,relevant,730
+vocab,en,perspective,730
+vocab,en,sufficient,600
+vocab,en,evaluate,600
+vocab,en,hypothesis,860
+vocab,en,methodology,860
+vocab,en,phenomenon,800
+vocab,en,correlation,860
+vocab,en,framework,800
+vocab,en,implication,800
+vocab,en,underlying,860
+vocab,en,empirical,860
+vocab,en,contradict,800
+vocab,en,substantial,800
+vocab,en,arbitrary,860
+vocab,en,plausible,860
+vocab,en,rigorous,860
+vocab,en,ambiguous,800
+vocab,en,inherent,800
+vocab,en,derive,800
+vocab,en,attribute,800
+vocab,en,constrain,800
+vocab,en,mitigate,800
+vocab,en,coherent,800
+vocab,en,paradigm,860
+vocab,en,subsequent,800
+vocab,en,discrepancy,800
+vocab,en,robust,800
+vocab,en,nuance,800
+vocab,en,counterintuitive,860
+vocab,en,skepticism,860
+vocab,en,justify,800
+vocab,en,comprehensive,800
+vocab,en,preliminary,800
+vocab,en,conclude,600
+vocab,en,indicate,600
+vocab,en,clarify,730
+vocab,en,emphasize,730
+vocab,en,distinguish,730
+vocab,en,tendency,730
+vocab,en,reasonable,730
+vocab,en,assumption,730
+vocab,en,outcome,600
+vocab,en,circumstance,730
+vocab,en,priority,600
+vocab,en,alternative,600
+vocab,en,inevitable,730
+vocab,en,gradually,600
+vocab,en,context,600
+vocab,en,conventional,730
+vocab,en,inconsistent,730
+vocab,en,overlook,730
+vocab,en,presumably,730
+vocab,en,variable,800
+vocab,en,sample size,800
+vocab,en,statistically significant,800
+vocab,en,peer review,800
+vocab,en,citation,800
+vocab,en,literature review,800
+vocab,en,bias,800
+vocab,en,validity,800
+vocab,en,causation,860
+vocab,en,confounding factor,800
+vocab,en,generalize,800
+vocab,en,replicate,800
+vocab,en,anomaly,800
+vocab,en,quantify,800
+vocab,en,novel,800
+vocab,en,rationale,800
+vocab,en,scope,800
+vocab,en,limitation,800
+vocab,en,implicit,800
+vocab,en,explicit,800
+vocab,en,counterargument,860
+vocab,en,synthesis,800
+vocab,en,postulate,860
+vocab,en,corroborate,860
+vocab,en,refute,860
+vocab,en,extrapolate,860
+vocab,en,inference,800
+vocab,en,rigor,860
+vocab,en,objective,800
+vocab,en,subjective,800
+vocab,en,holistic,860
+vocab,en,component,800
+vocab,en,dataset,800
+vocab,en,outlier,800
+vocab,en,baseline,800
+vocab,en,iteration,800
+vocab,en,threshold,800
+vocab,en,underpin,860
+vocab,en,invoice,600
+vocab,en,receipt,600
+vocab,en,deadline,600
+vocab,en,agenda,600
+vocab,en,memo,600
+vocab,en,attachment,600
+vocab,en,forward,600
+vocab,en,submit,730
+vocab,en,photocopy,600
+vocab,en,stationery,600
+vocab,en,schedule,600
+vocab,en,reschedule,600
+vocab,en,postpone,600
+vocab,en,venue,600
+vocab,en,attendee,600
+vocab,en,keynote,600
+vocab,en,conference,600
+vocab,en,workshop,600
+vocab,en,RSVP,600
+vocab,en,minutes,600
+vocab,en,applicant,600
+vocab,en,resume,600
+vocab,en,candidate,600
+vocab,en,promotion,600
+vocab,en,salary,600
+vocab,en,benefits,600
+vocab,en,onboarding,800
+vocab,en,appraisal,800
+vocab,en,resign,600
+vocab,en,supervisor,600
+vocab,en,budget,600
+vocab,en,expense,600
+vocab,en,revenue,600
+vocab,en,profit,600
+vocab,en,quarter,600
+vocab,en,fiscal year,800
+vocab,en,audit,800
+vocab,en,investment,600
+vocab,en,shareholder,800
+vocab,en,dividend,800
+vocab,en,campaign,600
+vocab,en,brand,600
+vocab,en,advertisement,600
+vocab,en,launch,600
+vocab,en,survey,600
+vocab,en,feedback,600
+vocab,en,loyalty,600
+vocab,en,impression,600
+vocab,en,contract,600
+vocab,en,clause,800
+vocab,en,liability,800
+vocab,en,compliance,800
+vocab,en,regulation,600
+vocab,en,agreement,600
+vocab,en,breach,800
+vocab,en,confidential,600
+vocab,en,itinerary,600
+vocab,en,boarding pass,600
+vocab,en,reservation,600
+vocab,en,accommodation,600
+vocab,en,layover,600
+vocab,en,baggage claim,600
+vocab,en,customs,600
+vocab,en,reimbursement,800
+vocab,en,business trip,600
+vocab,en,delay,600
+vocab,en,complaint,600
+vocab,en,refund,600
+vocab,en,warranty,600
+vocab,en,inquiry,600
+vocab,en,satisfaction,600
+vocab,en,resolve,600
+vocab,en,apologize,600
+vocab,en,defective,600
+vocab,en,headquarters,600
+vocab,en,subsidiary,800
+vocab,en,merger,800
+vocab,en,acquisition,800
+vocab,en,supplier,600
+vocab,en,vendor,600
+vocab,en,inventory,600
+vocab,en,wholesale,800
+vocab,en,distributor,600
+vocab,en,franchise,800
+vocab,en,negotiate,800
+vocab,en,collaborate,800
+vocab,en,delegate,800
+vocab,en,prioritize,800
+vocab,en,implement,800
+vocab,en,streamline,800
+vocab,en,outsource,800
+vocab,en,notify,600
+vocab,en,confirm,600
+vocab,en,attend,600
+vocab,en,arrive,600
+vocab,en,expect,600
+vocab,en,improve,600
+vocab,en,include,600
+vocab,en,invest,600
+vocab,en,offer,600
+vocab,en,promote,600
+vocab,en,recommend,600
+vocab,en,review,600
+vocab,en,achieve,600
+vocab,en,acknowledge,600
+vocab,en,approve,600
+vocab,en,describe,600
+vocab,en,enable,600
+vocab,en,express,600
+vocab,en,purchase,600
+vocab,en,recognize,600
+vocab,en,reveal,600
+vocab,en,satisfy,600
+vocab,en,consumer,600
+vocab,en,department,600
+vocab,en,manufacturer,600
+vocab,en,shipment,600
+vocab,en,transportation,600
+vocab,en,efficiency,600
+vocab,en,available,600
+vocab,en,additional,600
+vocab,en,considerable,600
+vocab,en,carry,500
+vocab,en,pull,500
+vocab,en,push,500
+vocab,en,load,500
+vocab,en,arrange,500
+vocab,en,water,500
+vocab,en,board,500
+vocab,en,passenger,500
+vocab,en,vehicle,500
+vocab,en,gather,500
+vocab,en,greet,500
+vocab,en,face,500
+vocab,en,address,500
+vocab,en,hand,500
+vocab,en,pay,500
+vocab,en,cabinet,500
+vocab,en,drawer,500
+vocab,en,ladder,500
+vocab,en,wheelbarrow,500
+vocab,en,workstation,500
+vocab,zh,去,3
+vocab,zh,机会,3
+vocab,zh,决定,3
+vocab,zh,坚持,3
+vocab,zh,提高,3
+vocab,zh,发现,3
+vocab,zh,解决,3
+vocab,zh,影响,3
+vocab,zh,方法,3
+vocab,zh,经验,3
+vocab,zh,态度,3
+vocab,zh,联系,3
+vocab,zh,需要,4
+vocab,zh,重要,4
+vocab,zh,研究,4
+vocab,zh,讨论,4
+vocab,zh,建议,4
+vocab,zh,改变,4
+vocab,zh,增加,4
+vocab,zh,减少,4
+vocab,zh,表示,4
+vocab,zh,认为,4
+vocab,zh,了解,4
+vocab,zh,关系,4
+vocab,zh,存在,4
+vocab,zh,提供,4
+vocab,zh,支持,4
+vocab,zh,反对,4
+vocab,zh,参加,4
+vocab,zh,完成,4
+vocab,zh,计划,4
+vocab,zh,目标,4
+vocab,zh,效果,4
+vocab,zh,环境,4
+vocab,zh,社会,4
+vocab,zh,文化,4
+vocab,zh,历史,4
+vocab,zh,科学,4
+vocab,zh,技术,4
+vocab,zh,教育,4
+vocab,zh,经济,4
+vocab,zh,政府,4
+vocab,zh,习惯,4
+vocab,zh,感觉,4
+vocab,zh,希望,4
+vocab,zh,打算,4
+vocab,zh,努力,4
+vocab,zh,完全,4
+vocab,zh,熟悉,4
+vocab,zh,分析,4
+vocab,zh,证明,4
+vocab,zh,数据,4
+vocab,zh,理论,4
+vocab,zh,实验,4
+vocab,zh,结论,4
+vocab,zh,观点,4
+vocab,zh,国家,4
+vocab,zh,人口,4
+vocab,zh,权利,4
+vocab,zh,责任,4
+vocab,zh,平等,4
+vocab,zh,制度,4
+vocab,zh,传统,4
+vocab,zh,市场,4
+vocab,zh,产品,4
+vocab,zh,竞争,4
+vocab,zh,项目,4
+vocab,zh,成本,4
+vocab,zh,利润,4
+vocab,zh,管理,4
+vocab,zh,现象,5
+vocab,zh,条件,4
+vocab,zh,情况,3
+vocab,zh,特点,4
+vocab,zh,优点,5
+vocab,zh,缺点,5
+vocab,zh,价值,5
+vocab,zh,基础,5
+vocab,zh,标准,5
+vocab,zh,规则,5
+vocab,zh,过程,5
+vocab,zh,结构,5
+vocab,zh,系统,5
+vocab,zh,功能,5
+vocab,zh,资源,5
+vocab,zh,投资,6
+vocab,zh,风险,5
+vocab,zh,收入,5
+vocab,zh,消费,6
+vocab,zh,客户,6
+vocab,zh,员工,5
+vocab,zh,合作,4
+vocab,zh,交流,5
+vocab,zh,沟通,6
+vocab,zh,趋势,6
+vocab,zh,现代,5
+vocab,zh,传播,6
+vocab,zh,保护,4
+vocab,zh,发展,4
+vocab,zh,适应,5
+example,en,We have already decided on the approach.,600
+example,en,Researchers have proposed a new hypothesis to explain this phenomenon.,860
+example,en,I have never seen such strong evidence before.,600
+example,en,Scientists have studied this phenomenon for decades.,800
+example,en,The team has already reached a reasonable conclusion.,730
+example,en,The dataset has revealed a clear anomaly.,800
+example,en,We have finally figured out the underlying cause.,860
+example,en,The findings have substantiated the original hypothesis.,860
+example,en,The decision was influenced by several factors.,600
+example,en,The hypothesis was supported by empirical evidence.,860
+example,en,This approach was influenced by an earlier method.,600
+example,en,The framework was developed to explain this correlation.,860
+example,en,The outcome was affected by an unexpected factor.,600
+example,en,The hypothesis was corroborated by new evidence.,860
+example,en,The plan was postponed because of an unexpected problem.,600
+example,en,The discrepancy was mitigated by refining the methodology.,860
+example,en,This is the factor that most people overlook.,730
+example,en,This is the framework that most studies rely on.,800
+example,en,This is the evidence that changed our decision.,600
+example,en,This is the hypothesis that most researchers support.,860
+example,en,This is the assumption that we should question.,730
+example,en,This is the dataset that supports our conclusion.,800
+example,en,This is the factor that changed the outcome.,600
+example,en,This is the mechanism that elucidates the phenomenon.,860
+example,en,"If the evidence were more consistent, we would reach a clear conclusion.",730
+example,en,"If the correlation were causal, the implications would be substantial.",860
+example,en,"If the factor were significant, the decision would change.",730
+example,en,"If the framework were flawed, the results would be inconsistent.",800
+example,en,"If the context were clearer, the decision would be easier.",730
+example,en,"If the sample size were larger, the results would be more reliable.",800
+example,en,"If the methodology were more rigorous, the conclusion would be more convincing.",860
+example,en,"If the mechanism were fully elucidated, the debate would end.",860
+example,en,"Considering the evidence, we should reconsider our approach.",730
+example,en,"Having reviewed the framework, the researchers proposed a revised methodology.",860
+example,en,"Having reviewed the evidence, we changed our approach.",730
+example,en,"Considering the correlation, the researchers revised their hypothesis.",860
+example,en,"Considering the circumstances, we postponed the decision.",730
+example,en,"Having analyzed the dataset, the researchers identified an outlier.",800
+example,en,"Having identified the discrepancy, we revised our conclusion.",800
+example,en,"Considering the preliminary results, the team adopted a more robust methodology.",860
+example,en,"Although the evidence was limited, the conclusion remained consistent.",800
+example,en,"Whereas the earlier study emphasized correlation, this framework focuses on causation.",860
+example,en,"Although the factor seemed minor, it changed the decision.",800
+example,en,"Although the hypothesis was plausible, the evidence remained weak.",860
+example,en,"Although the outcome was uncertain, we proceeded anyway.",800
+example,en,"Although the sample size was small, the correlation remained significant.",860
+example,en,"Although the explanation is plausible, it lacks empirical support.",860
+example,en,"Whereas earlier work emphasized a single factor, this study considers several inherent ones.",800
+example,en,There seems to be a significant factor behind this decision.,800
+example,en,"The data tend to support the underlying hypothesis, although the correlation remains preliminary.",860
+example,en,The decision appears to depend on several factors.,800
+example,en,The findings may indicate a deeper underlying pattern.,860
+example,en,The assumption appears to be reasonable.,800
+example,en,The anomaly may indicate a measurement error.,800
+example,en,The discrepancy is presumably due to a measurement error.,800
+example,en,The correlation appears to be robust across several independent datasets.,860
+example,en,"Actually, I think the approach needs to change.",600
+example,en,"By the way, this framework also has an important implication for practice.",800
+example,en,"I mean, the approach itself wasn't the problem.",600
+example,en,"Basically, this hypothesis needs more evidence.",860
+example,en,"Anyway, the outcome was reasonable.",730
+example,en,"Honestly, this dataset needs further analysis.",800
+example,en,"Well, the explanation still seems a bit ambiguous.",800
+example,en,"In short, the findings are fairly preliminary.",800
+example,en,We need to figure out the most relevant factor.,730
+example,en,The study points out a discrepancy in the earlier findings.,800
+example,en,We should look into this factor more carefully.,600
+example,en,The researchers came up with a new framework.,800
+example,en,We need to point out this inconsistency.,500
+example,en,The researchers ruled out an alternative explanation.,730
+example,en,We should look into why the discrepancy came about.,800
+example,en,The researchers set out to elucidate the underlying mechanism.,860
+example,en,We have already submitted the invoice.,730
+example,en,Researchers have measured the band gap of this material.,900
+example,en,The company has negotiated a new contract with the supplier.,800
+example,en,The team has doped the silicon wafer with boron.,900
+example,en,The manager has approved the budget increase.,600
+example,en,The team has observed significant band bending at the interface.,900
+example,en,The client has requested a revised quotation.,600
+example,en,The researchers have corroborated the earlier result with new data.,860
+example,en,The contract was signed by both parties.,600
+example,en,The wafer was doped with phosphorus.,900
+example,en,The budget was approved by the shareholders.,800
+example,en,The band gap was measured at room temperature.,900
+example,en,The contract was reviewed by the legal team.,600
+example,en,The threshold voltage was reduced by the new fabrication process.,900
+example,en,The quotation was revised by the sales team.,600
+example,en,The mobility was affected by the increased defect density.,900
+example,en,This is the supplier that offers the best price.,600
+example,en,This is the transistor that shows the highest mobility.,900
+example,en,This is the contract that we negotiated last month.,800
+example,en,This is the junction that forms the diode.,900
+example,en,This is the vendor that delivers on time.,600
+example,en,This is the junction that shows avalanche breakdown.,900
+example,en,This is the client who signed the new contract.,600
+example,en,This is the substrate that shows the lowest defect density.,900
+example,en,"If the budget were larger, we would launch the campaign sooner.",730
+example,en,"If the band gap were narrower, the device would conduct more easily.",900
+example,en,"If the supplier were more reliable, the delay would not happen.",730
+example,en,"If the doping concentration were higher, the resistivity would decrease.",900
+example,en,"If the supplier delivered faster, the project would finish sooner.",730
+example,en,"If the doping concentration were lower, the resistivity would increase.",900
+example,en,"If the client approved the quotation today, we would start next week.",730
+example,en,"If the substrate were defect-free, the mobility would be much higher.",900
+example,en,"Considering the budget, we postponed the campaign.",730
+example,en,"Considering the leakage current, the engineers redesigned the gate.",900
+example,en,"Having reviewed the contract, the lawyer approved it.",730
+example,en,"Having measured the mobility, the researchers selected a new substrate.",900
+example,en,"Having reviewed the proposal, the manager approved the budget.",730
+example,en,"Considering the leakage current, the team redesigned the oxide layer.",900
+example,en,"Having received the client's feedback, we revised the quotation.",730
+example,en,"Having measured the defect density, the engineers adjusted the fabrication process.",900
+example,en,"Although the budget was limited, the campaign succeeded.",800
+example,en,"Although the band gap was narrow, the device performed well.",900
+example,en,"Whereas the old supplier was slow, the new one delivers quickly.",800
+example,en,"Whereas silicon has an indirect bandgap, gallium arsenide has a direct one.",900
+example,en,"Whereas the previous vendor was unreliable, this one performs consistently.",800
+example,en,"Whereas silicon dominates the market, gallium arsenide offers higher electron mobility.",900
+example,en,"Although the client raised concerns, the contract was signed on schedule.",800
+example,en,"Whereas the old process was prevalent, the new fabrication method is more robust.",900
+example,en,The budget appears to be insufficient for this campaign.,800
+example,en,The defect density seems to affect the yield.,900
+example,en,The merger may lead to significant cost savings.,800
+example,en,The scattering may explain the reduced mobility.,900
+example,en,The delay seems to stem from a supplier issue.,800
+example,en,The degradation appears to result from thermal stress.,900
+example,en,The client's hesitation seems to reflect budget concerns.,800
+example,en,The reduced mobility may be attributable to increased scattering.,900
+example,en,"Actually, the budget was approved yesterday.",600
+example,en,"Actually, the wafer showed an unexpected defect.",900
+example,en,"By the way, the merger will be announced next week.",800
+example,en,"Basically, doping increases the carrier concentration.",900
+example,en,"To be honest, the budget was too tight.",600
+example,en,"Actually, the yield improved significantly.",900
+example,en,"Honestly, the client seemed satisfied with the proposal.",600
+example,en,"So far, the new process looks more robust than the old one.",800
+example,en,We need to figure out a better supplier.,600
+example,en,We need to look into this leakage current.,900
+example,en,The team came up with a new marketing campaign.,600
+example,en,The researchers came up with a new fabrication process.,900
+example,en,We need to follow up on this inquiry.,600
+example,en,The team carried out a series of experiments.,800
+example,en,The client asked us to follow up on the revised quotation.,600
+example,en,The engineers had to figure out why the mobility dropped off.,900
+example,en,The committee has already approved the new budget proposal.,600
+example,en,All the submitted applications were evaluated by the hiring committee.,730
+example,en,The potted plants on the windowsill are watered every morning by the office staff.,730
+example,en,A wheelbarrow full of soil is being pushed toward the garden by one of the workers.,730
+example,en,The folding chairs are being arranged side by side for the afternoon meeting.,600
+example,en,A ladder has been placed against the wall near the photocopier.,600
+example,en,The kitchen utensils are kept near the sink for easy access.,600
+example,en,This is the department where most new employees receive their training.,600
+example,en,"If the shipment arrived on time, the client would be fully satisfied.",730
+example,en,"Having reviewed the applicant's résumé, the manager decided to schedule an interview.",730
+example,en,"Despite the considerable cost, the company decided to invest in new equipment.",800
+example,en,The survey results seem to indicate significant growth in consumer demand.,800
+example,en,"Actually, the department has already recommended a new supplier.",600
+example,en,The manufacturer had to figure out why the shipment was delayed.,600
+example,en,The receptionist is handing the visitor badges over to each guest at the front desk.,730
+example,en,The delivery staff loaded up the van with boxes before heading to the warehouse.,730
+example,en,Passengers waiting in line pointed out the correct platform to a confused traveler.,600
+example,zh,我去过很多地方找机会。,3
+example,zh,我已经联系了他。,3
+example,zh,科学家已经发现了新的方法。,4
+example,zh,他已经了解了这个方法。,4
+example,zh,他们已经参加了那个活动。,4
+example,zh,历史已经改变了这个社会。,4
+example,zh,我们已经完成了这个计划。,4
+example,zh,他们已经提供了建议。,4
+example,zh,他已经努力了很长时间。,4
+example,zh,我们已经分析了这些数据。,4
+example,zh,这个国家已经建立了新制度。,4
+example,zh,公司已经降低了成本。,4
+example,zh,他终于适应了新的习惯。,5
+example,zh,研究人员已经证明了这个现象。,5
+example,zh,政府已经保护了这个传统文化。,4
+example,zh,公司已经提高了产品标准。,5
+example,zh,请把这个机会给他。,3
+example,zh,她把态度改变了。,4
+example,zh,我们把这个方法用在了研究中。,4
+example,zh,他把自己的经验用在了教育中。,4
+example,zh,政府把环境保护放在第一位。,4
+example,zh,他们把这个文化传给了下一代。,4
+example,zh,我们把目标提高了。,4
+example,zh,他们把经济发展放在了首位。,4
+example,zh,请把你的感觉告诉我。,4
+example,zh,我们把这个理论用在了实验中。,4
+example,zh,政府把责任交给了地方。,4
+example,zh,公司把市场扩大了。,4
+example,zh,他把这个情况解释清楚了。,3
+example,zh,我们把这个条件写进了报告。,4
+example,zh,政府把这个资源分给了每个地区。,5
+example,zh,公司把风险降到了最低。,5
+example,zh,这次的机会比上次更好。,3
+example,zh,他的态度比以前更认真了。,3
+example,zh,新的研究方法比旧的更科学。,4
+example,zh,这个学校的教育比那个学校更好。,4
+example,zh,这个国家的历史比我们想象的更长。,4
+example,zh,这个城市的环境比过去更好了。,4
+example,zh,今年的计划比去年更详细。,4
+example,zh,今年的目标比去年更高。,4
+example,zh,他现在比以前更熟悉这份工作了。,4
+example,zh,这个理论比旧的理论更清楚。,4
+example,zh,这个国家的人口比邻国更多。,4
+example,zh,这个产品的成本比以前更低。,4
+example,zh,这次的情况比上次更复杂。,3
+example,zh,这个结构比旧的结构更清楚。,5
+example,zh,这个地区的资源比邻近地区更丰富。,5
+example,zh,今年的收入比去年更高。,5
+example,zh,这里有一个很好的机会。,3
+example,zh,他对工作有认真的态度。,3
+example,zh,这个领域还有很多值得研究的问题。,4
+example,zh,这本书里有很多关于科学的经验。,4
+example,zh,这个城市有丰富的文化。,4
+example,zh,这个社会有很多历史问题。,4
+example,zh,这个计划有一个明确的目标。,4
+example,zh,这个计划有很大的效果。,4
+example,zh,这里有很多值得学习的习惯。,4
+example,zh,这个研究还有很多未知的问题。,4
+example,zh,这个社会还有很多不平等。,4
+example,zh,这个市场还有很大的竞争。,4
+example,zh,他对新环境有很好的适应能力。,5
+example,zh,这个系统有很多值得改进的功能。,5
+example,zh,这个社会还有很大的发展空间。,4
+example,zh,这个项目有很大的投资价值。,6
+example,zh,这个机会差不多是最后一次了。,3
+example,zh,他的态度其实很好。,3
+example,zh,这个方法其实没有你想的那么复杂。,4
+example,zh,这个研究好像还没有结果。,4
+example,zh,"没关系,这些问题社会上很常见。",4
+example,zh,这个文化差不多要消失了。,4
+example,zh,这个计划好像还需要调整。,4
+example,zh,这个目标其实不难实现。,4
+example,zh,"他其实很努力,只是不常说。",4
+example,zh,这个数据好像不太准确。,4
+example,zh,这个制度其实没有那么复杂。,4
+example,zh,这个成本好像有点高。,4
+example,zh,他的情况其实没有那么糟糕。,3
+example,zh,这个结论好像还需要更多证据。,4
+example,zh,这个规则好像大家都不太遵守。,5
+example,zh,这个风险好像被低估了。,5

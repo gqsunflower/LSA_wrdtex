@@ -12,6 +12,9 @@
   "etymologyFiles": [
     "etymology/etymology.csv"
   ],
+  "levelFiles": [
+    "levels/levels.csv"
+  ],
   "grammarChaptersFile": "grammar/chapters.csv",
   "grammarExamplesFile": "grammar/examples.csv"
 }
